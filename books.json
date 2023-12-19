@@ -867,5 +867,136 @@
     },
     "cover_url": "https://example.com/thumbnails/you-dont-know-js-this-and-object-prototypes.jpg",
     "online_version_url": "https://example.com/ebooks/you-dont-know-js-this-and-object-prototypes.pdf"
+  },
+  {
+    "title": "Async and Performance",
+    "authors": [
+      "Kyle Simpson"
+    ],
+    "isbn": "9781491904220",
+    "published_year": 2015,
+    "category": [
+      "Programming",
+      "JavaScript",
+      "Asynchronous Programming",
+      "Performance"
+    ],
+    "availability": true,
+    "location": {
+      "shelf": "B2",
+      "row": 2
+    },
+    "additional_info": {
+      "publisher": "O'Reilly Media",
+      "language": "English",
+      "page_count": 300
+    },
+    "cover_url": "https://example.com/thumbnails/java-complete-reference.jpg",
+    "online_version_url": "https://example.com/ebooks/java-complete-reference.pdf"
+  },
+  {
+    "title": "You Don't Know JS Yet",
+    "authors": [
+      "Kyle Simpson"
+    ],
+    "isbn": "9798621536459",
+    "published_year": null,
+    "category": [
+      "Programming",
+      "JavaScript",
+      "Web Development",
+      "Software Development"
+    ],
+    "availability": true,
+    "location": {
+      "shelf": "B2",
+      "row": 2
+    },
+    "additional_info": {
+      "publisher": "Publisher Not Available",
+      "language": "Language Not Available",
+      "page_count": null
+    },
+    "cover_url": "https://example.com/thumbnails/you-dont-know-js-yet.jpg",
+    "online_version_url": "https://example.com/ebooks/you-dont-know-js-yet.pdf"
+  },
+  {
+    "title": "Learning React",
+    "authors": [
+      "Alex Banks",
+      "Eve Porcello"
+    ],
+    "isbn": "978-1-492-05172-5",
+    "published_year": null,
+    "category": [
+      "Programming",
+      "React",
+      "Web Development",
+      "Software Development"
+    ],
+    "availability": true,
+    "location": {
+      "shelf": "B2",
+      "row": 2
+    },
+    "additional_info": {
+      "publisher": "Publisher Not Available",
+      "language": "Language Not Available",
+      "page_count": null
+    },
+    "cover_url": "https://example.com/thumbnails/learning-react.jpg",
+    "online_version_url": "https://example.com/ebooks/learning-react.pdf"
+  },
+  {
+    "title": "You Don't Know JS: Types and Grammar",
+    "authors": [
+      "Kyle Simpson"
+    ],
+    "isbn": "9781491904190",
+    "published_year": null,
+    "category": [
+      "Programming",
+      "JavaScript",
+      "Web Development",
+      "Software Development"
+    ],
+    "availability": true,
+    "location": {
+      "shelf": "B2",
+      "row": 2
+    },
+    "additional_info": {
+      "publisher": "Publisher Not Available",
+      "language": "Language Not Available",
+      "page_count": null
+    },
+    "cover_url": "https://example.com/thumbnails/you-dont-know-js-types-and-grammar.jpg",
+    "online_version_url": "https://example.com/ebooks/you-dont-know-js-types-and-grammar.pdf"
+  },
+  {
+    "title": "You Don't Know JS: This & Object Prototypes",
+    "authors": [
+      "Kyle Simpson"
+    ],
+    "isbn": "9781491904152",
+    "published_year": null,
+    "category": [
+      "Programming",
+      "JavaScript",
+      "Web Development",
+      "Software Development"
+    ],
+    "availability": true,
+    "location": {
+      "shelf": "B2",
+      "row": 2
+    },
+    "additional_info": {
+      "publisher": "Publisher Not Available",
+      "language": "Language Not Available",
+      "page_count": null
+    },
+    "cover_url": "https://example.com/thumbnails/you-dont-know-js-this-and-object-prototypes.jpg",
+    "online_version_url": "https://example.com/ebooks/you-dont-know-js-this-and-object-prototypes.pdf"
   }
 ]
