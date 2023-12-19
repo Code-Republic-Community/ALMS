@@ -1,7 +1,9 @@
 [
   {
     "title": "Java The Complete Reference, Eleventh Edition",
-    "authors": ["Herbert Schildt"],
+    "authors": [
+      "Herbert Schildt"
+    ],
     "isbn": "978126044232",
     "published_year": 2019,
     "category": [
@@ -25,10 +27,17 @@
   },
   {
     "title": "Essential Math for Data Science",
-    "authors": ["Thomas Nield"],
+    "authors": [
+      "Thomas Nield"
+    ],
     "isbn": "9871098102937",
     "published_year": 2022,
-    "category": ["Math", "Data Science", "Linear Algebra", "Statistics"],
+    "category": [
+      "Math",
+      "Data Science",
+      "Linear Algebra",
+      "Statistics"
+    ],
     "availability": true,
     "location": {
       "shelf": "B1",
@@ -44,10 +53,17 @@
   },
   {
     "title": "C++ Software Design",
-    "authors": ["Klaus Iglberger"],
+    "authors": [
+      "Klaus Iglberger"
+    ],
     "isbn": "9871098113162",
     "published_year": 2022,
-    "category": ["Design Principles", "Patterns", "C++", "Software Design"],
+    "category": [
+      "Design Principles",
+      "Patterns",
+      "C++",
+      "Software Design"
+    ],
     "availability": true,
     "location": {
       "shelf": "B1",
@@ -91,7 +107,11 @@
   },
   {
     "title": "Modern C++ Design",
-    "author": ["Andrei Alexandrescu", "Scott Meyers", "John Vlissides"],
+    "author": [
+      "Andrei Alexandrescu",
+      "Scott Meyers",
+      "John Vlissides"
+    ],
     "isbn": "0201704315",
     "published_year": 2001,
     "category": [
@@ -116,10 +136,16 @@
   },
   {
     "title": "Decode to Encode",
-    "author": ["Avinash Ramachandran"],
+    "author": [
+      "Avinash Ramachandran"
+    ],
     "isbn": "9780998045016",
     "published_year": 2018,
-    "category": ["Video Compression", "GOPs", "Video Codec Architecture"],
+    "category": [
+      "Video Compression",
+      "GOPs",
+      "Video Codec Architecture"
+    ],
     "availability": true,
     "location": {
       "shelf": "B1",
@@ -135,7 +161,9 @@
   },
   {
     "title": "System Design Interview",
-    "author": ["Alex Xu"],
+    "author": [
+      "Alex Xu"
+    ],
     "isbn": "9798664653403",
     "published_year": 2020,
     "category": [
@@ -149,7 +177,7 @@
     "location": {
       "shelf": "B1",
       "row": 0
-    },  
+    },
     "additional_info": {
       "publisher": "Byte Code LLC",
       "language": "English",
@@ -160,7 +188,9 @@
   },
   {
     "title": "A Digital Signal Preocessing Primer",
-    "author": ["Ken Steiglitz"],
+    "author": [
+      "Ken Steiglitz"
+    ],
     "isbn": "9780486845838",
     "published_year": 2020,
     "category": [
@@ -183,10 +213,16 @@
   },
   {
     "title": "The Fabric of Reality",
-    "author": ["Daivd Deutsch"],
+    "author": [
+      "Daivd Deutsch"
+    ],
     "isbn": "0713990619",
     "published_year": 1997,
-    "category": ["Computer Science", "Quantum Computers", "Virtual Reality"],
+    "category": [
+      "Computer Science",
+      "Quantum Computers",
+      "Virtual Reality"
+    ],
     "availability": true,
     "location": {
       "shelf": "B1",
@@ -202,7 +238,10 @@
   },
   {
     "title": "Fundamentals of Software Architecture",
-    "author": ["Marc Richards", "Neal Ford"],
+    "author": [
+      "Marc Richards",
+      "Neal Ford"
+    ],
     "isbn": "9781492043454",
     "published_year": 2001,
     "category": [
@@ -227,10 +266,16 @@
   },
   {
     "title": "Raspberry Pi",
-    "author": ["Simon Monk"],
+    "author": [
+      "Simon Monk"
+    ],
     "isbn": "9785990846265",
     "published_year": 2014,
-    "category": ["Raspberry Pi", "GPIO connector", "System Programming"],
+    "category": [
+      "Raspberry Pi",
+      "GPIO connector",
+      "System Programming"
+    ],
     "availability": true,
     "location": {
       "shelf": "B2",
@@ -246,7 +291,9 @@
   },
   {
     "title": "The Innovators",
-    "author": ["Walter Isaacson"],
+    "author": [
+      "Walter Isaacson"
+    ],
     "isbn": "9781476708690",
     "published_year": 2014,
     "category": [
@@ -272,7 +319,9 @@
   },
   {
     "title": "Raspberry Pi 4",
-    "author": ["Gareth Halfacree"],
+    "author": [
+      "Gareth Halfacree"
+    ],
     "isbn": "9785970609026",
     "published_year": 2021,
     "category": [
@@ -296,10 +345,16 @@
   },
   {
     "title": "The Game Console 2.0",
-    "author": ["Evan Amos"],
+    "author": [
+      "Evan Amos"
+    ],
     "isbn": "9781718500600",
     "published_year": 2021,
-    "category": ["Microsoft XBOX", "Sony Playstation", "Nintendo"],
+    "category": [
+      "Microsoft XBOX",
+      "Sony Playstation",
+      "Nintendo"
+    ],
     "availability": true,
     "location": {
       "shelf": "B2",
@@ -315,7 +370,10 @@
   },
   {
     "title": "Multithreaded JavaScript",
-    "author": ["Thomas Hunter", "Bryan English"],
+    "author": [
+      "Thomas Hunter",
+      "Bryan English"
+    ],
     "isbn": "9781098104436",
     "published_year": 2021,
     "category": [
@@ -343,7 +401,9 @@
   },
   {
     "title": "Distributed Systems with Node.js",
-    "author": ["Thomas Hunter"],
+    "author": [
+      "Thomas Hunter"
+    ],
     "isbn": "9781492077299",
     "published_year": 2020,
     "category": [
@@ -370,7 +430,10 @@
   },
   {
     "title": "iOS Programming",
-    "author": ["Christian Keur", "Aaron Hillegass"],
+    "author": [
+      "Christian Keur",
+      "Aaron Hillegass"
+    ],
     "isbn": "9780134682334",
     "published_year": 2016,
     "category": [
@@ -394,10 +457,17 @@
   },
   {
     "title": "The Startup Owner's Manual",
-    "author": ["Steve Blank", "Bob Dorf"],
+    "author": [
+      "Steve Blank",
+      "Bob Dorf"
+    ],
     "isbn": "9780984999309",
     "published_year": 2016,
-    "category": ["Customer Discovery", "Customer Validation", "Startup"],
+    "category": [
+      "Customer Discovery",
+      "Customer Validation",
+      "Startup"
+    ],
     "availability": true,
     "location": {
       "shelf": "A2",
@@ -413,7 +483,9 @@
   },
   {
     "title": "How not to be wrong",
-    "authors": ["Jordan Ellenberg"],
+    "authors": [
+      "Jordan Ellenberg"
+    ],
     "isbn": "978-1-59420-522-4",
     "published_year": 2014,
     "category": [
@@ -437,7 +509,9 @@
   },
   {
     "title": "Dune",
-    "authors": ["Frank Herbert"],
+    "authors": [
+      "Frank Herbert"
+    ],
     "isbn": "9780441172719",
     "published_year": 2010,
     "category": [
@@ -447,8 +521,8 @@
     ],
     "availability": true,
     "location": {
-        "shelf": "G",
-        "row": 2
+      "shelf": "G",
+      "row": 2
     },
     "additional_info": {
       "publisher": "Ace",
@@ -460,7 +534,9 @@
   },
   {
     "title": "God Emperor of Dune",
-    "authors": ["Frank Herbert"],
+    "authors": [
+      "Frank Herbert"
+    ],
     "isbn": "9780593098257",
     "published_year": 2019,
     "category": [
@@ -469,8 +545,8 @@
     ],
     "availability": true,
     "location": {
-        "shelf": "G",
-        "row": 2
+      "shelf": "G",
+      "row": 2
     },
     "additional_info": {
       "publisher": "Ace",
@@ -482,7 +558,9 @@
   },
   {
     "title": "Heretics of Dune",
-    "authors": ["Frank Herbert"],
+    "authors": [
+      "Frank Herbert"
+    ],
     "isbn": "9780593098264",
     "published_year": 2019,
     "category": [
@@ -493,8 +571,8 @@
     ],
     "availability": true,
     "location": {
-        "shelf": "G",
-        "row": 2
+      "shelf": "G",
+      "row": 2
     },
     "additional_info": {
       "publisher": "Ace",
@@ -506,7 +584,9 @@
   },
   {
     "title": "Children of Dune",
-    "authors": ["Frank Herbert"],
+    "authors": [
+      "Frank Herbert"
+    ],
     "isbn": "9780593098240",
     "published_year": 2019,
     "category": [
@@ -517,8 +597,8 @@
     ],
     "availability": true,
     "location": {
-        "shelf": "G",
-        "row": 2
+      "shelf": "G",
+      "row": 2
     },
     "additional_info": {
       "publisher": "Ace",
@@ -530,7 +610,9 @@
   },
   {
     "title": "Numbers Don't Lie",
-    "authors": ["Vaclav Smil"],
+    "authors": [
+      "Vaclav Smil"
+    ],
     "isbn": "978014313224",
     "published_year": 2021,
     "category": [
@@ -541,8 +623,8 @@
     ],
     "availability": true,
     "location": {
-        "shelf": "G",
-        "row": 2
+      "shelf": "G",
+      "row": 2
     },
     "additional_info": {
       "publisher": "Penguin books",
@@ -554,7 +636,9 @@
   },
   {
     "title": "1984",
-    "authors": ["George Orwell"],
+    "authors": [
+      "George Orwell"
+    ],
     "isbn": "978-5-04-120578-2",
     "published_year": 2022,
     "category": [
@@ -564,8 +648,8 @@
     ],
     "availability": true,
     "location": {
-        "shelf": "G",
-        "row": 2
+      "shelf": "G",
+      "row": 2
     },
     "additional_info": {
       "publisher": "Eksmo",
@@ -577,7 +661,9 @@
   },
   {
     "title": "A space odyssey",
-    "authors": ["Artur C. Clarke"],
+    "authors": [
+      "Artur C. Clarke"
+    ],
     "isbn": "978-1-85723-664-4",
     "published_year": 1998,
     "category": [
@@ -588,8 +674,8 @@
     ],
     "availability": true,
     "location": {
-        "shelf": "G",
-        "row": 2
+      "shelf": "G",
+      "row": 2
     },
     "additional_info": {
       "publisher": "Orbit",
@@ -601,7 +687,9 @@
   },
   {
     "title": "Chapterhouse Dune",
-    "authors": ["Frank Herbert"],
+    "authors": [
+      "Frank Herbert"
+    ],
     "isbn": "978-0-441-00541-7",
     "published_year": 2022,
     "category": [
@@ -612,8 +700,8 @@
     ],
     "availability": true,
     "location": {
-        "shelf": "G",
-        "row": 2
+      "shelf": "G",
+      "row": 2
     },
     "additional_info": {
       "publisher": "Ace",
@@ -625,7 +713,9 @@
   },
   {
     "title": "Dune Messiah",
-    "authors": ["Frank Herbert"],
+    "authors": [
+      "Frank Herbert"
+    ],
     "isbn": "9780593098233",
     "published_year": 2019,
     "category": [
@@ -636,8 +726,8 @@
     ],
     "availability": true,
     "location": {
-        "shelf": "G",
-        "row": 2
+      "shelf": "G",
+      "row": 2
     },
     "additional_info": {
       "publisher": "Ace",
@@ -646,5 +736,136 @@
     },
     "cover_url": "https://example.com/thumbnails/java-complete-reference.jpg",
     "online_version_url": "https://example.com/ebooks/java-complete-reference.pdf"
+  },
+  {
+    "title": "Async and Performance",
+    "authors": [
+      "Kyle Simpson"
+    ],
+    "isbn": "9781491904220",
+    "published_year": 2015,
+    "category": [
+      "Programming",
+      "JavaScript",
+      "Asynchronous Programming",
+      "Performance"
+    ],
+    "availability": true,
+    "location": {
+      "shelf": "B2",
+      "row": 2
+    },
+    "additional_info": {
+      "publisher": "O'Reilly Media",
+      "language": "English",
+      "page_count": 300
+    },
+    "cover_url": "https://example.com/thumbnails/java-complete-reference.jpg",
+    "online_version_url": "https://example.com/ebooks/java-complete-reference.pdf"
+  },
+  {
+    "title": "You Don't Know JS Yet",
+    "authors": [
+      "Kyle Simpson"
+    ],
+    "isbn": "9798621536459",
+    "published_year": null,
+    "category": [
+      "Programming",
+      "JavaScript",
+      "Web Development",
+      "Software Development"
+    ],
+    "availability": true,
+    "location": {
+      "shelf": "B2",
+      "row": 2
+    },
+    "additional_info": {
+      "publisher": "Publisher Not Available",
+      "language": "Language Not Available",
+      "page_count": null
+    },
+    "cover_url": "https://example.com/thumbnails/you-dont-know-js-yet.jpg",
+    "online_version_url": "https://example.com/ebooks/you-dont-know-js-yet.pdf"
+  },
+  {
+    "title": "Learning React",
+    "authors": [
+      "Alex Banks",
+      "Eve Porcello"
+    ],
+    "isbn": "978-1-492-05172-5",
+    "published_year": null,
+    "category": [
+      "Programming",
+      "React",
+      "Web Development",
+      "Software Development"
+    ],
+    "availability": true,
+    "location": {
+      "shelf": "B2",
+      "row": 2
+    },
+    "additional_info": {
+      "publisher": "Publisher Not Available",
+      "language": "Language Not Available",
+      "page_count": null
+    },
+    "cover_url": "https://example.com/thumbnails/learning-react.jpg",
+    "online_version_url": "https://example.com/ebooks/learning-react.pdf"
+  },
+  {
+    "title": "You Don't Know JS: Types and Grammar",
+    "authors": [
+      "Kyle Simpson"
+    ],
+    "isbn": "9781491904190",
+    "published_year": null,
+    "category": [
+      "Programming",
+      "JavaScript",
+      "Web Development",
+      "Software Development"
+    ],
+    "availability": true,
+    "location": {
+      "shelf": "B2",
+      "row": 2
+    },
+    "additional_info": {
+      "publisher": "Publisher Not Available",
+      "language": "Language Not Available",
+      "page_count": null
+    },
+    "cover_url": "https://example.com/thumbnails/you-dont-know-js-types-and-grammar.jpg",
+    "online_version_url": "https://example.com/ebooks/you-dont-know-js-types-and-grammar.pdf"
+  },
+  {
+    "title": "You Don't Know JS: This & Object Prototypes",
+    "authors": [
+      "Kyle Simpson"
+    ],
+    "isbn": "9781491904152",
+    "published_year": null,
+    "category": [
+      "Programming",
+      "JavaScript",
+      "Web Development",
+      "Software Development"
+    ],
+    "availability": true,
+    "location": {
+      "shelf": "B2",
+      "row": 2
+    },
+    "additional_info": {
+      "publisher": "Publisher Not Available",
+      "language": "Language Not Available",
+      "page_count": null
+    },
+    "cover_url": "https://example.com/thumbnails/you-dont-know-js-this-and-object-prototypes.jpg",
+    "online_version_url": "https://example.com/ebooks/you-dont-know-js-this-and-object-prototypes.pdf"
   }
 ]
