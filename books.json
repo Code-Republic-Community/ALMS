@@ -646,5 +646,217 @@
     },
     "cover_url": "https://example.com/thumbnails/java-complete-reference.jpg",
     "online_version_url": "https://example.com/ebooks/java-complete-reference.pdf"
-  }
+  },
+  {
+    "title": "A Briefer History of Time",
+    "authors": ["Stephen Hawking"],
+    "isbn": "9780593056974",
+    "published_year": 2008,
+    "category": [
+      "Science",
+      "Physics",
+      "Cosmology",
+      "Astrophysics"
+    ],
+    "availability": true,
+    "location": {
+      "shelf": "G",
+      "row": 1
+    },
+    "additional_info": {
+      "publisher": "Bantam Press",
+      "language": "English",
+      "page_count": 176
+    },
+    "cover_url": "https://example.com/thumbnails/a-briefer-history-of-time.jpg",
+    "online_version_url": "https://example.com/ebooks/a-briefer-history-of-time.pdf"
+},
+{
+    "title": "How to Invent Everything: A Survival Guide for the Stranded Time Traveler",
+    "authors": ["Ryan North"],
+    "isbn": "9780735220140",
+    "published_year": 2018,
+    "category": [
+      "Non-fiction",
+      "Science",
+      "Technology",
+      "Humor"
+    ],
+    "availability": true,
+    "location": {
+      "shelf": "G",
+      "row": 1
+    },
+    "additional_info": {
+      "publisher": "Riverhead Books",
+      "language": "English",
+      "page_count": 464
+    },
+    "cover_url": "https://example.com/thumbnails/how-to-invent-everything.jpg",
+    "online_version_url": "https://example.com/ebooks/how-to-invent-everything.pdf"
+},
+{
+    "title": "How the World Really Works",
+    "authors": ["Vaclav Smil"],
+    "isbn": "9780593297063",
+    "published_year": 2022,
+    "category": [
+      "Non-fiction",
+      "Science",
+      "Technology",
+      "Sociology"
+    ],
+    "availability": true,
+    "location": {
+      "shelf": "G",
+      "row": 1
+    },
+    "additional_info": {
+      "publisher": "Viking",
+      "language": "English",
+      "page_count": 336
+    },
+    "cover_url": "https://example.com/thumbnails/how-the-world-really-works.jpg",
+    "online_version_url": "https://example.com/ebooks/how-the-world-really-works.pdf"
+},
+{
+    "title": "Ատոմային սովորություններ",
+    "authors": ["James Clear"],
+    "isbn": "9789939924366",
+    "published_year": 2021,
+    "category": [
+      "Science",
+      "Physics",
+      "Education",
+    ],
+    "availability": true,
+    "location": {
+      "shelf": "G",
+      "row": 1
+    },
+    "additional_info": {
+      "publisher": "Edit Print",
+      "language": "Armenian",
+      "page_count": 248
+    },
+    "cover_url": "https://example.com/thumbnails/atomic-teachings.jpg",
+    "online_version_url": "https://example.com/ebooks/atomic-teachings.pdf"
+},
+{
+    "title": "Черные дыры. Лекции BBC",
+    "authors": ["Stephen Hawking"],
+    "isbn": "9785179827542",
+    "published_year": 2019,
+    "category": [
+      "Popular Science",
+      "Physics",
+      "Cosmology",
+    ],
+    "availability": true,
+    "location": {
+      "shelf": "G",
+      "row": 1
+    },
+    "additional_info": {
+      "publisher": "АСТ",
+      "language": "Russian",
+      "page_count": 64
+    },
+    "cover_url": "https://example.com/thumbnails/black-holes-bbc-lectures.jpg",
+    "online_version_url": "https://example.com/ebooks/black-holes-bbc-lectures.pdf"
+},
+{
+    "title": "Ամեն ոք ձեռներեց է",
+    "authors": ["Gregory Diehl"],
+    "isbn": "9789939753919",
+    "published_year": 2021,
+    "category": [
+      "Novel",
+      "Romance",
+      "Friendship",
+    ],
+    "availability": true,
+    "location": {
+      "shelf": "G",
+      "row": 1
+    },
+    "additional_info": {
+      "publisher": "Edit Print",
+      "language": "Armenian",
+      "page_count": 304
+    },
+    "cover_url": "",
+    "online_version_url": ""
+},
+{
+    "title": "Black Holes and Baby Universes",
+    "authors": ["Stephen Hawking"],
+    "isbn": "9780553406634",
+    "published_year": 1994,
+    "category": [
+      "Science",
+      "Cosmology",
+      "Physics",
+      "Astrophysics"
+    ],
+    "availability": true,
+    "location": {
+      "shelf": "G",
+      "row": 1
+    },
+    "additional_info": {
+      "publisher": "Bantam Books",
+      "language": "English",
+      "page_count": 176
+    },
+    "cover_url": "https://example.com/thumbnails/black-holes-and-baby-universes.jpg",
+    "online_version_url": "https://example.com/ebooks/black-holes-and-baby-universes.pdf"
+},
+{
+    "title": "Как работает Google",
+    "authors": ["Eric Schmidt, Jonathan Rosenberg"],
+    "isbn": "9785699981359",
+    "published_year": 2017,
+    "category": [
+      "Non-fiction",
+      "Technology",
+      "Business",
+      "Computers"
+    ],
+    "availability": true,
+    "location": {
+      "shelf": "G",
+      "row": 1
+    },
+    "additional_info": {
+      "publisher": "Эксмо",
+      "language": "Russian",
+      "page_count": 401
+    },
+    "cover_url": "https://example.com/thumbnails/kak-rabotaet-google.jpg",
+    "online_version_url": "https://example.com/ebooks/kak-rabotaet-google.pdf"
+},
+{
+    "title": "The Rick and Morty Adventures",
+    "authors": ["Syenduk D."],
+    "isbn": "9785913395863",
+    "published_year": 2017,
+    "category": [
+      "Science Fiction",
+      "Comedy",
+      "Adventure",
+    ],
+    "availability": true,
+    "location": {
+      "shelf": "G",
+      "row": 1
+    },
+    "additional_info": {
+      "publisher": "Komilfo",
+      "language": "Russian",
+      "page_count": 392
+    },
+    "cover_url": "https://example.com/thumbnails/rick-and-morty-adventures.jpg",
+    "online_version_url": "https://example.com/ebooks/rick-and-morty-adventures.pdf"
+}
 ]
