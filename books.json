@@ -646,5 +646,128 @@
     },
     "cover_url": "https://example.com/thumbnails/java-complete-reference.jpg",
     "online_version_url": "https://example.com/ebooks/java-complete-reference.pdf"
-  }
+  },
+  {
+      "title": "Моя жизнь",
+      "authors": ["Henry Ford"],
+      "isbn": "9785170779680",
+      "published_year": 2012,
+      "category": [
+        "Autobiography",
+        "Biography",
+        "Memoir",
+        "History"
+      ],
+      "availability": true,
+      "location": {
+        "shelf": "G",
+        "row": 3
+      },
+      "additional_info": {
+        "publisher": "Astrel",
+        "language": "Russian",
+        "page_count": 352
+      },
+      "cover_url": "https://example.com/thumbnails/java-complete-reference.jpg",
+      "online_version_url": "https://example.com/ebooks/java-complete-reference.pdf"
+    },
+    {
+      "title": "Homo Deus. A Brief History of the Future",
+      "authors": ["Harari Yuval Noah"],
+      "isbn": "9785906837776",
+      "published_year": 2018,
+      "category": [
+        "History",
+        "Philosophy",
+        "Science",
+        "Futurology"
+      ],
+      "availability": true,
+      "location": {
+        "shelf": "G",
+        "row": 3
+      },
+      "additional_info": {
+        "publisher": "Sinbad",
+        "language": "Russian",
+        "page_count": 496
+      },
+      "cover_url": "https://example.com/thumbnails/java-complete-reference.jpg",
+      "online_version_url": "https://example.com/ebooks/java-complete-reference.pdf"
+    },
+    {
+     "title": "Hedge Fund",
+     "authors": [
+       "Philippe Sabbah",
+       "Roulot Tristan",
+       "Hénaff Patrick"
+     ],
+     "isbn": "9782803634453",
+     "published_year": 2014,
+     "category": [
+      "Finance",
+      "Investing",
+      "Business",
+      "Economics"
+     ],
+     "availability": true,
+     "location": {
+      "shelf": "G",
+      "row": 3
+     },
+     "additional_info": {
+      "publisher": "LOMBARD",
+      "language": "French",
+      "page_count": 56
+     },
+     "cover_url": "https://example.com/thumbnails/java-complete-reference.jpg",
+     "online_version_url": "https://example.com/ebooks/java-complete-reference.pdf"
+    },
+    {
+      "title": "Cryptonomicon",
+      "authors": ["Neal Stephenson"],
+      "isbn": "9780380788620",
+      "published_year": 2000,
+      "category": [
+        "Fiction",
+        "Historical Fiction",
+        "Science Fiction",
+        "Thriller"
+      ],
+      "availability": true,
+      "location": {
+        "shelf": "G",
+        "row": 3
+      },
+      "additional_info": {
+        "publisher": "William Morrow & Company",
+        "language": "English",
+        "page_count": 928
+      },
+      "cover_url": "https://example.com/thumbnails/java-complete-reference.jpg",
+      "online_version_url": "https://example.com/ebooks/java-complete-reference.pdf"
+    },
+    {
+     "title": "Engineers' Practical Databook: A Technical Reference Guide for Students and Professionals",
+     "authors": ["Jay Smith"],
+     "isbn": "9781980619345",
+     "published_year": 2018,
+     "category": [
+       "Engineering", "Reference",
+       "Technology",
+       "Professional Development"
+     ],
+     "availability": true,
+     "location": {
+      "shelf": "G",
+      "row": 3
+     },
+     "additional_info": {
+      "publisher": "Independently published",
+      "language": "English",
+      "page_count": 168
+     },
+     "cover_url": "https://example.com/thumbnails/java-complete-reference.jpg",
+     "online_version_url": "https://example.com/ebooks/java-complete-reference.pdf"
+    },
 ]
