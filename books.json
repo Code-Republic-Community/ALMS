@@ -646,5 +646,221 @@
     },
     "cover_url": "https://example.com/thumbnails/java-complete-reference.jpg",
     "online_version_url": "https://example.com/ebooks/java-complete-reference.pdf"
-  }
+  },
+    {
+    "title": "Hitler and Churchill",
+    "authors": ["Andrew Roberts"],
+    "isbn": "978-0-7538-1778-0",
+    "published_year": 2004,
+    "category": [
+      "History: World War II",
+      "Biography: Political Leaders",
+      "Military History: 20th Century",
+      "Political Science: Leadership and Governance"
+    ],
+    "availability": true,
+    "location": {
+      "shelf": "G",
+      "row": 1
+    },
+    "additional_info": {
+      "publisher": "Phoenix",
+      "language": "English",
+      "page_count": 272
+    },
+    "cover_url": "https://example.com/thumbnails/java-complete-reference.jpg",
+    "online_version_url": "https://example.com/ebooks/java-complete-reference.pdf"
+  },
+  {
+    "title": "Հանրահաշիվ 8֊րդ դասարանի դասագիրք",
+    "authors": ["Ս․ Մ․ Նիկոլսկի", "Մ․ Կ․ Պոտապով", "Ն․ Ն․ Ռեշետնիկով", "Ա․ Վ․ Շեվկին"],
+    "isbn": "978126044232",
+    "published_year": 2012,
+    "category": [
+      "Mathematics",
+      "School book",
+      "Arithmetic ",
+      "Education"
+    ],
+    "availability": true,
+    "location": {
+      "shelf": "G",
+      "row": 1
+    },
+    "additional_info": {
+      "publisher": "Antares",
+      "language": "Armenian",
+      "page_count": 280
+    },
+    "cover_url": "https://example.com/thumbnails/java-complete-reference.jpg",
+    "online_version_url": "https://example.com/ebooks/java-complete-reference.pdf"
+  },
+  {
+    "title": "Երկրաչափություն 8֊րդ դասարանի դասագիրք",
+    "authors": ["Ս․ Մ․ Նիկոլսկի", "Մ․ Կ․ Պոտապով", "Ն․ Ն․ Ռեշետնիկով", "Ա․ Վ․ Շեվկին"],
+    "isbn": "978126044232",
+    "published_year": 2012,
+    "category": [
+      "Mathematics",
+      "School book",
+      "Geometry ",
+      "Educational"
+    ],
+    "availability": true,
+    "location": {
+      "shelf": "G",
+      "row": 1
+    },
+    "additional_info": {
+      "publisher": "Zangak-97",
+      "language": "Armenian",
+      "page_count": 144
+    },
+    "cover_url": "https://example.com/thumbnails/java-complete-reference.jpg",
+    "online_version_url": "https://example.com/ebooks/java-complete-reference.pdf"
+  },
+  {
+    "title": "Moneyball: The Art of Winning an Unfair Game",
+    "authors": ["Michael Lewis"],
+    "isbn": "0-393-05765-8",
+    "published_year": 2003,
+    "category": [
+      "Sports & Recreation: Baseball",
+      "Business & Economics: Management",
+      "Non-Fiction: Sports Journalism ",
+      "Biography & Memoir: Sports Figures"
+    ],
+    "availability": true,
+    "location": {
+      "shelf": "G",
+      "row": 1
+    },
+    "additional_info": {
+      "publisher": "W. W. Norton & Company",
+      "language": "English",
+      "page_count": 336
+    },
+    "cover_url": "https://example.com/thumbnails/java-complete-reference.jpg",
+    "online_version_url": "https://example.com/ebooks/java-complete-reference.pdf"
+  },
+  {
+    "title": "The Joy of x: A Guided Tour of Math, from One to Infinity",
+    "authors": ["Steven Strogatz"],
+    "isbn": "978-0-544-10585-0",
+    "published_year": 2013,
+    "category": [
+      "Mathematics: Popular Science",
+      "Education: Mathematics",
+      "Non-Fiction: Science and Mathematics",
+      "Popular Mathematics: Explorations and Insights"
+    ],
+    "availability": true,
+    "location": {
+      "shelf": "G",
+      "row": 1
+    },
+    "additional_info": {
+      "publisher": "Houghton Mifflin Harcourt",
+      "language": "English",
+      "page_count": 316
+    },
+    "cover_url": "https://example.com/thumbnails/java-complete-reference.jpg",
+    "online_version_url": "https://example.com/ebooks/java-complete-reference.pdf"
+  },
+  {
+    "title": "Building a StoryBrand: Clarify Your Message So Customers Will Listen",
+    "authors": ["Donald Miller"],
+    "isbn": "978-1-4041-0721-2",
+    "published_year": 2017,
+    "category": [
+      "Business & Marketing: Branding",
+      "Self-Help: Communication and Personal Development",
+      "Non-Fiction: Business Strategy",
+      "Leadership & Management: Marketing Leadership"
+    ],
+    "availability": true,
+    "location": {
+      "shelf": "G",
+      "row": 1
+    },
+    "additional_info": {
+      "publisher": "Harper Collins Leadership",
+      "language": "English",
+      "page_count": 240
+    },
+    "cover_url": "https://example.com/thumbnails/java-complete-reference.jpg",
+    "online_version_url": "https://example.com/ebooks/java-complete-reference.pdf"
+  },
+  {
+    "title": "Superintelligence: Paths, Dangers, Strategies",
+    "authors": ["Nick Bostrom"],
+    "isbn": "978-0-19-873983-8",
+    "published_year": 2014,
+    "category": [
+      "Technology & Artificial Intelligence: Superintelligence",
+      "Philosophy: Ethics and Technology",
+      "Science: Artificial Intelligence",
+      "Non-Fiction: Futurology"
+    ],
+    "availability": true,
+    "location": {
+      "shelf": "G",
+      "row": 1
+    },
+    "additional_info": {
+      "publisher": "Oxford University Press",
+      "language": "English",
+      "page_count": 416
+    },
+    "cover_url": "https://example.com/thumbnails/java-complete-reference.jpg",
+    "online_version_url": "https://example.com/ebooks/java-complete-reference.pdf"
+  },
+  {
+    "title": "Future Crimes: Inside the Digital Underground and the Battle for Our Connected World",
+    "authors": ["Marc Goodman"],
+    "isbn": "978-0-8041-7145-8",
+    "published_year": 2017,
+    "category": [
+      "Technology & Cybersecurity: Digital Crime",
+      "Non-Fiction: True Crime and Technology",
+      "Social Science: Technology and Society",
+      "Business & Economics: Cybersecurity Strategies"
+    ],
+    "availability": true,
+    "location": {
+      "shelf": "G",
+      "row": 1
+    },
+    "additional_info": {
+      "publisher": "Anchor Books",
+      "language": "English",
+      "page_count": 608
+    },
+    "cover_url": "https://example.com/thumbnails/java-complete-reference.jpg",
+    "online_version_url": "https://example.com/ebooks/java-complete-reference.pdf"
+  },
+  {
+    "title": "Архитекторы интеллекта",
+    "authors": ["Martin Ford"],
+    "isbn": "9785446112548",
+    "published_year": 2021,
+    "category": [
+      "Non-fiction",
+      "Technology",
+      "Artificial Intelligence",
+      "Computer Science"
+    ],
+    "availability": true,
+    "location": {
+      "shelf": "G",
+      "row": 1
+    },
+    "additional_info": {
+      "publisher": "Эксмо",
+      "language": "Russian",
+      "page_count": 417
+    },
+    "cover_url": "https://example.com/thumbnails/arhitektory-intellekta.jpg",
+    "online_version_url": "https://example.com/ebooks/arhitektory-intellekta.pdf"
+ }
 ]
