@@ -1096,7 +1096,7 @@
     ],
     "availability": true,
     "location": {
-      "shelf": "B2",
+      "shelf": "A1",
       "row": 2
     },
     "additional_info": {
@@ -1120,8 +1120,8 @@
     ],
     "availability": true,
     "location": {
-      "shelf": "B2",
-      "row": 1
+      "shelf": "A1",
+      "row": 2
     },
     "additional_info": {
       "publisher": "Packt Publishing Ltd",
@@ -1149,7 +1149,7 @@
     ],
     "availability": true,
     "location": {
-      "shelf": "B2",
+      "shelf": "A1",
       "row": 2
     },
     "additional_info": {
@@ -1174,8 +1174,8 @@
     ],
     "availability": true,
     "location": {
-      "shelf": "B2",
-      "row": 3
+      "shelf": "A1",
+      "row": 2
     },
     "additional_info": {
       "publisher": "Addison-Wesley Professional",
@@ -1198,7 +1198,7 @@
     ],
     "availability": true,
     "location": {
-      "shelf": "C1",
+      "shelf": "A1",
       "row": 2
     },
     "additional_info": {
