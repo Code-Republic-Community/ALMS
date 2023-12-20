@@ -943,7 +943,7 @@
     "category": [
       "Science",
       "Physics",
-      "Education",
+      "Education"
     ],
     "availability": true,
     "location": {
@@ -966,7 +966,7 @@
     "category": [
       "Popular Science",
       "Physics",
-      "Cosmology",
+      "Cosmology"
     ],
     "availability": true,
     "location": {
@@ -989,7 +989,7 @@
     "category": [
       "Novel",
       "Romance",
-      "Friendship",
+      "Friendship"
     ],
     "availability": true,
     "location": {
@@ -1060,7 +1060,7 @@
     "category": [
       "Science Fiction",
       "Comedy",
-      "Adventure",
+      "Adventure"
     ],
     "availability": true,
     "location": {
@@ -1074,5 +1074,145 @@
     },
     "cover_url": "https://example.com/thumbnails/rick-and-morty-adventures.jpg",
     "online_version_url": "https://example.com/ebooks/rick-and-morty-adventures.pdf"
+},
+
+{
+  "title": "Woodworking: The Complete Step-by-Step Guide to Skills, Techniques, and Projects",
+  "authors": ["Tom Carpenter"],
+  "isbn": "978-1-4971-0005-3",
+  "published_year": 2019,
+  "category": [
+    "Carpentry",
+    "Self-Help",
+    "Non-Fiction",
+    "DIY and Crafts"
+  ],
+  "availability": true,
+  "location": {
+    "shelf": "B",
+    "row": 6
+  },
+  "additional_info": {
+    "publisher": "Fox Chapel Publishing; First Edition",
+    "language": "English",
+    "page_count": 448 
+  },
+  "cover_url": "https://example.com/woodworking-cover.jpg",
+  "online_version_url": "https://example.com/woodworking-online-version.pdf"
+},
+{
+  "title": "Grimm's Fairy Tales",
+  "authors": ["J.L.C. & W.C.Grimm"],
+  "isbn": "978-1-85326-101-5",
+  "published_year": 1993,
+  "category": ["Fairy Tales and Folklore","Children's Literature","Fiction","Classic Literature"],
+  "availability": true,
+  "location": {
+    "shelf": "B",
+    "row": 6
+  },
+  "additional_info": {
+    "publisher": "Wordsworth classics",
+    "language": "English",
+    "page_count": 272
+  },
+  "cover_url": "https://example.com/grimms-fairy-tales-cover.jpg",
+  "online_version_url": "https://example.com/grimms-fairy-tales-online-version.pdf"
+},
+{
+  "title": "Mythical Man-Month",
+  "authors": ["Frederick P. Brooks"],
+  "isbn": "0201835959",
+  "published_year": 1995,
+  "category": ["Software Engineering","Project Management","Computer Science","Technology and Innovation"],
+  "availability": true,
+  "location": {
+    "shelf": "B",
+    "row": 6
+  },
+  "additional_info": {
+    "publisher": "Addison-Wesley Professional",
+    "language": "English",
+    "page_count": 336
+  },
+  "cover_url": "https://example.com/mythical-man-month-cover.jpg",
+  "online_version_url": "https://example.com/mythical-man-month-online-version.pdf"
+},
+{
+  "title": "Control Systems Engineering, 4th Edition",
+  "authors": ["Norman S. Nise"],
+  "isbn": "978-0471445777",
+  "published_year": 2003,
+  "category": ["Technical Manuals","Technical Manuals","Academic Reference"],
+  "availability": true,
+  "location": {
+    "shelf": "B",
+    "row": 6
+  },
+  "additional_info": {
+    "publisher": "Wiley",
+    "language": "English",
+    "page_count": 983
+  },
+  "cover_url": "https://example.com/control-systems-engineering-cover.jpg",
+  "online_version_url": "https://example.com/control-systems-engineering-online-version.pdf"
+},
+{
+  "title": "Artificial Intelligence",
+  "authors": ["Peter Norvig,Stuart Russell"],
+  "isbn": "978-9332543515",
+  "published_year": 2015,
+  "category": ["Computer Science:","Technology and Innovation","AI"],
+  "availability": true,
+  "location": {
+    "shelf": "B",
+    "row": 6
+  },
+  "additional_info": {
+    "publisher": "Pearson Education India",
+    "language": "English",
+    "page_count": 1164
+  },
+  "cover_url": "https://example.com/artificial-intelligence-cover.jpg",
+  "online_version_url": "https://example.com/artificial-intelligence-online-version.pdf"
+},
+{
+  "title": "История компьютерной эры",
+  "authors": ["Алексей Никоноров и Дмитрий Макарский"],
+  "isbn": "978-5-699-75282-9",
+  "published_year": 2016,
+  "category": ["Computer Science History","Technology and Innovation","Non-Fiction","Educational Resources"],
+  "availability": true,
+  "location": {
+    "shelf": "B",
+    "row": 7
+  },
+  "additional_info": {
+    "publisher": "Эксмо",
+    "language": "Русский",
+    "page_count": 256
+  },
+  "cover_url": "https://example.com/history-of-computer-era-cover.jpg",
+  "online_version_url": "https://example.com/history-of-computer-era-online-version.pdf"
+},
+{
+  "title": "https://example.com/history-of-computer-era-online-version.pdf",
+  "authors": ["Benjamin Graham ,David Dodd"],
+  "isbn": "978-0071592536",
+  "published_year": 2008,
+  "category": ["Financial Analysis","Classic Finance Literature","Investment Strategies","Investment and Finance"],
+  "availability": true,
+  "location": {
+    "shelf": "B",
+    "row": 7
+  },
+  "additional_info": {
+    "publisher": "McGraw Hill",
+    "language": "English",
+    "page_count": 700
+  },
+  "cover_url": "https://example.com/security-analysis-cover.jpg",
+  "online_version_url": "https://example.com/security-analysis-online-version.pdf"
 }
+
 ]
