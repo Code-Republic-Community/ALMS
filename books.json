@@ -1074,5 +1074,139 @@
     },
     "cover_url": "https://example.com/thumbnails/rick-and-morty-adventures.jpg",
     "online_version_url": "https://example.com/ebooks/rick-and-morty-adventures.pdf"
-}
+},
+ {
+    "title": "Expert C++ - Second Edition",
+    "isbn": "9781804617830",
+    "authors": ["Marcelo Guerra Hahn", "Vardan Grigoryan", "John Asatryan", "Araks Tigranyan", "Shunguang Wu"],
+    "published_year": 2023,
+    "category": [
+      "C++", "Advanced Programming",
+      "Template Metaprogramming", 
+      "Memory Management", 
+      "STL Containers", 
+      "Advanced Data Structures", 
+      "Functional Programming", 
+      "Concurrency", 
+      "Multithreading", 
+      "Design Patterns", 
+      "Networking", 
+      "Security", 
+      "Large-Scale Application Design"
+    ],
+    "availability": true,
+    "location": {
+      "shelf": "B2",
+      "row": 2
+    },
+    "additional_info": {
+      "publisher": "Packt",
+      "language": "English",
+      "page_count": 604
+    },
+    "cover_url": "https://example.com/thumbnails/expert-c++-second-edition.jpg",
+    "online_version_url": "https://example.com/ebooks/expert-c++-second-edition.pdf"
+  },
+  {
+    "title": "Node.js Design Patterns Third Edition",
+    "isbn": "9781839214110",
+    "authors": ["Mario Casciaro", "Luciano Mammino"],
+    "published_year": 2020,
+    "category": [
+      "Node.js", 
+      "JavaScript", 
+      "Design Patterns", 
+      "Asynchronous Programming"
+    ],
+    "availability": true,
+    "location": {
+      "shelf": "B2",
+      "row": 1
+    },
+    "additional_info": {
+      "publisher": "Packt Publishing Ltd",
+      "language": "English",
+      "page_count": 664
+    },
+    "cover_url": "https://example.com/thumbnails/nodejs-design-patterns.jpg",
+    "online_version_url": "https://example.com/ebooks/nodejs-design-patterns.pdf"
+  },
+  {
+    "title": "Inside the C++ Object Model",
+    "isbn": "0201834545",
+    "author": ["Stanley B. Lippman"],
+    "published_year": 1996,
+    "category": [
+      "C++",
+      "Object Model",
+      "Constructors and Destructors",
+      "Data and Function Semantics",
+      "Runtime Semantics",
+      "Advanced C++ Features",
+      "Memory Management",
+      "Software Development Practices",
+      "Efficiency and Optimization"
+    ],
+    "availability": true,
+    "location": {
+      "shelf": "B2",
+      "row": 2
+    },
+    "additional_info": {
+      "publisher": "Addison-Wesley Professional",
+      "language": "English",
+      "page_count": 304
+    },
+    "cover_url": "https://example.com/thumbnails/inside-cpp-object-model.jpg",
+    "online_version_url": "https://example.com/ebooks/inside-cpp-object-model.pdf"
+  },
+  {
+    "title": "Effective STL",
+    "authors": ["Scott Meyers"],
+    "isbn": "0201749629",
+    "published_year": 2001,
+    "category": [
+      "C++",
+      "STL",
+      "Programming",
+      "Computer Science",
+      "Software Development"
+    ],
+    "availability": true,
+    "location": {
+      "shelf": "B2",
+      "row": 3
+    },
+    "additional_info": {
+      "publisher": "Addison-Wesley Professional",
+      "language": "English",
+      "page_count": 288,
+      "cover_url": "https://example.com/thumbnails/effective-stl.jpg",
+      "online_version_url": "https://example.com/ebooks/effective-stl.pdf"
+    }
+  },
+  {
+    "title": "Thinking Low-Level, Writing High-Level",
+    "authors": ["Randall Hyde"],
+    "isbn": "9781718500389",
+    "published_year": 2020,
+    "category": [
+      "Low-Level Programming", 
+      "High-Level Programming",
+      "Programming Languages",
+      "Computer Science"
+    ],
+    "availability": true,
+    "location": {
+      "shelf": "C1",
+      "row": 2
+    },
+    "additional_info": {
+      "publisher": "No Starch Press",
+      "language": "English",
+      "page_count": 656,
+      "cover_url": "https://example.com/thumbnails/thinking-low-level.jpg",
+      "online_version_url": "https://example.com/ebooks/thinking-low-level.pdf"
+    }
+  }  
 ]
