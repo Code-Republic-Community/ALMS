@@ -647,16 +647,16 @@
     "cover_url": "https://example.com/thumbnails/java-complete-reference.jpg",
     "online_version_url": "https://example.com/ebooks/java-complete-reference.pdf"
   },
-    {
-    "title": "Hitler and Churchill",
-    "authors": ["Andrew Roberts"],
-    "isbn": "978-0-7538-1778-0",
-    "published_year": 2004,
+  {
+    "title": "A Briefer History of Time",
+    "authors": ["Stephen Hawking"],
+    "isbn": "9780593056974",
+    "published_year": 2008,
     "category": [
-      "History: World War II",
-      "Biography: Political Leaders",
-      "Military History: 20th Century",
-      "Political Science: Leadership and Governance"
+      "Science",
+      "Physics",
+      "Cosmology",
+      "Astrophysics"
     ],
     "availability": true,
     "location": {
@@ -664,23 +664,23 @@
       "row": 1
     },
     "additional_info": {
-      "publisher": "Phoenix",
+      "publisher": "Bantam Press",
       "language": "English",
-      "page_count": 272
+      "page_count": 176
     },
-    "cover_url": "https://example.com/thumbnails/java-complete-reference.jpg",
-    "online_version_url": "https://example.com/ebooks/java-complete-reference.pdf"
-  },
-  {
-    "title": "Հանրահաշիվ 8֊րդ դասարանի դասագիրք",
-    "authors": ["Ս․ Մ․ Նիկոլսկի", "Մ․ Կ․ Պոտապով", "Ն․ Ն․ Ռեշետնիկով", "Ա․ Վ․ Շեվկին"],
-    "isbn": "978126044232",
-    "published_year": 2012,
+    "cover_url": "https://example.com/thumbnails/a-briefer-history-of-time.jpg",
+    "online_version_url": "https://example.com/ebooks/a-briefer-history-of-time.pdf"
+},
+{
+    "title": "How to Invent Everything: A Survival Guide for the Stranded Time Traveler",
+    "authors": ["Ryan North"],
+    "isbn": "9780735220140",
+    "published_year": 2018,
     "category": [
-      "Mathematics",
-      "School book",
-      "Arithmetic ",
-      "Education"
+      "Non-fiction",
+      "Science",
+      "Technology",
+      "Humor"
     ],
     "availability": true,
     "location": {
@@ -688,23 +688,23 @@
       "row": 1
     },
     "additional_info": {
-      "publisher": "Antares",
-      "language": "Armenian",
-      "page_count": 280
+      "publisher": "Riverhead Books",
+      "language": "English",
+      "page_count": 464
     },
-    "cover_url": "https://example.com/thumbnails/java-complete-reference.jpg",
-    "online_version_url": "https://example.com/ebooks/java-complete-reference.pdf"
-  },
-  {
-    "title": "Երկրաչափություն 8֊րդ դասարանի դասագիրք",
-    "authors": ["Ս․ Մ․ Նիկոլսկի", "Մ․ Կ․ Պոտապով", "Ն․ Ն․ Ռեշետնիկով", "Ա․ Վ․ Շեվկին"],
-    "isbn": "978126044232",
-    "published_year": 2012,
+    "cover_url": "https://example.com/thumbnails/how-to-invent-everything.jpg",
+    "online_version_url": "https://example.com/ebooks/how-to-invent-everything.pdf"
+},
+{
+    "title": "How the World Really Works",
+    "authors": ["Vaclav Smil"],
+    "isbn": "9780593297063",
+    "published_year": 2022,
     "category": [
-      "Mathematics",
-      "School book",
-      "Geometry ",
-      "Educational"
+      "Non-fiction",
+      "Science",
+      "Technology",
+      "Sociology"
     ],
     "availability": true,
     "location": {
@@ -712,143 +712,116 @@
       "row": 1
     },
     "additional_info": {
-      "publisher": "Zangak-97",
-      "language": "Armenian",
-      "page_count": 144
-    },
-    "cover_url": "https://example.com/thumbnails/java-complete-reference.jpg",
-    "online_version_url": "https://example.com/ebooks/java-complete-reference.pdf"
-  },
-  {
-    "title": "Moneyball: The Art of Winning an Unfair Game",
-    "authors": ["Michael Lewis"],
-    "isbn": "0-393-05765-8",
-    "published_year": 2003,
-    "category": [
-      "Sports & Recreation: Baseball",
-      "Business & Economics: Management",
-      "Non-Fiction: Sports Journalism ",
-      "Biography & Memoir: Sports Figures"
-    ],
-    "availability": true,
-    "location": {
-      "shelf": "G",
-      "row": 1
-    },
-    "additional_info": {
-      "publisher": "W. W. Norton & Company",
+      "publisher": "Viking",
       "language": "English",
       "page_count": 336
     },
-    "cover_url": "https://example.com/thumbnails/java-complete-reference.jpg",
-    "online_version_url": "https://example.com/ebooks/java-complete-reference.pdf"
-  },
-  {
-    "title": "The Joy of x: A Guided Tour of Math, from One to Infinity",
-    "authors": ["Steven Strogatz"],
-    "isbn": "978-0-544-10585-0",
-    "published_year": 2013,
-    "category": [
-      "Mathematics: Popular Science",
-      "Education: Mathematics",
-      "Non-Fiction: Science and Mathematics",
-      "Popular Mathematics: Explorations and Insights"
-    ],
-    "availability": true,
-    "location": {
-      "shelf": "G",
-      "row": 1
-    },
-    "additional_info": {
-      "publisher": "Houghton Mifflin Harcourt",
-      "language": "English",
-      "page_count": 316
-    },
-    "cover_url": "https://example.com/thumbnails/java-complete-reference.jpg",
-    "online_version_url": "https://example.com/ebooks/java-complete-reference.pdf"
-  },
-  {
-    "title": "Building a StoryBrand: Clarify Your Message So Customers Will Listen",
-    "authors": ["Donald Miller"],
-    "isbn": "978-1-4041-0721-2",
-    "published_year": 2017,
-    "category": [
-      "Business & Marketing: Branding",
-      "Self-Help: Communication and Personal Development",
-      "Non-Fiction: Business Strategy",
-      "Leadership & Management: Marketing Leadership"
-    ],
-    "availability": true,
-    "location": {
-      "shelf": "G",
-      "row": 1
-    },
-    "additional_info": {
-      "publisher": "Harper Collins Leadership",
-      "language": "English",
-      "page_count": 240
-    },
-    "cover_url": "https://example.com/thumbnails/java-complete-reference.jpg",
-    "online_version_url": "https://example.com/ebooks/java-complete-reference.pdf"
-  },
-  {
-    "title": "Superintelligence: Paths, Dangers, Strategies",
-    "authors": ["Nick Bostrom"],
-    "isbn": "978-0-19-873983-8",
-    "published_year": 2014,
-    "category": [
-      "Technology & Artificial Intelligence: Superintelligence",
-      "Philosophy: Ethics and Technology",
-      "Science: Artificial Intelligence",
-      "Non-Fiction: Futurology"
-    ],
-    "availability": true,
-    "location": {
-      "shelf": "G",
-      "row": 1
-    },
-    "additional_info": {
-      "publisher": "Oxford University Press",
-      "language": "English",
-      "page_count": 416
-    },
-    "cover_url": "https://example.com/thumbnails/java-complete-reference.jpg",
-    "online_version_url": "https://example.com/ebooks/java-complete-reference.pdf"
-  },
-  {
-    "title": "Future Crimes: Inside the Digital Underground and the Battle for Our Connected World",
-    "authors": ["Marc Goodman"],
-    "isbn": "978-0-8041-7145-8",
-    "published_year": 2017,
-    "category": [
-      "Technology & Cybersecurity: Digital Crime",
-      "Non-Fiction: True Crime and Technology",
-      "Social Science: Technology and Society",
-      "Business & Economics: Cybersecurity Strategies"
-    ],
-    "availability": true,
-    "location": {
-      "shelf": "G",
-      "row": 1
-    },
-    "additional_info": {
-      "publisher": "Anchor Books",
-      "language": "English",
-      "page_count": 608
-    },
-    "cover_url": "https://example.com/thumbnails/java-complete-reference.jpg",
-    "online_version_url": "https://example.com/ebooks/java-complete-reference.pdf"
-  },
-  {
-    "title": "Архитекторы интеллекта",
-    "authors": ["Martin Ford"],
-    "isbn": "9785446112548",
+    "cover_url": "https://example.com/thumbnails/how-the-world-really-works.jpg",
+    "online_version_url": "https://example.com/ebooks/how-the-world-really-works.pdf"
+},
+{
+    "title": "Ատոմային սովորություններ",
+    "authors": ["James Clear"],
+    "isbn": "9789939924366",
     "published_year": 2021,
+    "category": [
+      "Science",
+      "Physics",
+      "Education",
+    ],
+    "availability": true,
+    "location": {
+      "shelf": "G",
+      "row": 1
+    },
+    "additional_info": {
+      "publisher": "Edit Print",
+      "language": "Armenian",
+      "page_count": 248
+    },
+    "cover_url": "https://example.com/thumbnails/atomic-teachings.jpg",
+    "online_version_url": "https://example.com/ebooks/atomic-teachings.pdf"
+},
+{
+    "title": "Черные дыры. Лекции BBC",
+    "authors": ["Stephen Hawking"],
+    "isbn": "9785179827542",
+    "published_year": 2019,
+    "category": [
+      "Popular Science",
+      "Physics",
+      "Cosmology",
+    ],
+    "availability": true,
+    "location": {
+      "shelf": "G",
+      "row": 1
+    },
+    "additional_info": {
+      "publisher": "АСТ",
+      "language": "Russian",
+      "page_count": 64
+    },
+    "cover_url": "https://example.com/thumbnails/black-holes-bbc-lectures.jpg",
+    "online_version_url": "https://example.com/ebooks/black-holes-bbc-lectures.pdf"
+},
+{
+    "title": "Ամեն ոք ձեռներեց է",
+    "authors": ["Gregory Diehl"],
+    "isbn": "9789939753919",
+    "published_year": 2021,
+    "category": [
+      "Novel",
+      "Romance",
+      "Friendship",
+    ],
+    "availability": true,
+    "location": {
+      "shelf": "G",
+      "row": 1
+    },
+    "additional_info": {
+      "publisher": "Edit Print",
+      "language": "Armenian",
+      "page_count": 304
+    },
+    "cover_url": "",
+    "online_version_url": ""
+},
+{
+    "title": "Black Holes and Baby Universes",
+    "authors": ["Stephen Hawking"],
+    "isbn": "9780553406634",
+    "published_year": 1994,
+    "category": [
+      "Science",
+      "Cosmology",
+      "Physics",
+      "Astrophysics"
+    ],
+    "availability": true,
+    "location": {
+      "shelf": "G",
+      "row": 1
+    },
+    "additional_info": {
+      "publisher": "Bantam Books",
+      "language": "English",
+      "page_count": 176
+    },
+    "cover_url": "https://example.com/thumbnails/black-holes-and-baby-universes.jpg",
+    "online_version_url": "https://example.com/ebooks/black-holes-and-baby-universes.pdf"
+},
+{
+    "title": "Как работает Google",
+    "authors": ["Eric Schmidt, Jonathan Rosenberg"],
+    "isbn": "9785699981359",
+    "published_year": 2017,
     "category": [
       "Non-fiction",
       "Technology",
-      "Artificial Intelligence",
-      "Computer Science"
+      "Business",
+      "Computers"
     ],
     "availability": true,
     "location": {
@@ -858,9 +831,32 @@
     "additional_info": {
       "publisher": "Эксмо",
       "language": "Russian",
-      "page_count": 417
+      "page_count": 401
     },
-    "cover_url": "https://example.com/thumbnails/arhitektory-intellekta.jpg",
-    "online_version_url": "https://example.com/ebooks/arhitektory-intellekta.pdf"
- }
+    "cover_url": "https://example.com/thumbnails/kak-rabotaet-google.jpg",
+    "online_version_url": "https://example.com/ebooks/kak-rabotaet-google.pdf"
+},
+{
+    "title": "The Rick and Morty Adventures",
+    "authors": ["Syenduk D."],
+    "isbn": "9785913395863",
+    "published_year": 2017,
+    "category": [
+      "Science Fiction",
+      "Comedy",
+      "Adventure",
+    ],
+    "availability": true,
+    "location": {
+      "shelf": "G",
+      "row": 1
+    },
+    "additional_info": {
+      "publisher": "Komilfo",
+      "language": "Russian",
+      "page_count": 392
+    },
+    "cover_url": "https://example.com/thumbnails/rick-and-morty-adventures.jpg",
+    "online_version_url": "https://example.com/ebooks/rick-and-morty-adventures.pdf"
+}
 ]
