@@ -149,7 +149,7 @@
     "location": {
       "shelf": "B1",
       "row": 0
-    },
+    },  
     "additional_info": {
       "publisher": "Byte Code LLC",
       "language": "English",
@@ -416,7 +416,12 @@
     "authors": ["Jordan Ellenberg"],
     "isbn": "978-1-59420-522-4",
     "published_year": 2014,
-    "category": ["Non-fiction", "Mathematics", "Probability", "Statistics"],
+    "category": [
+      "Non-fiction",
+      "Mathematics",
+      "Probability",
+      "Statistics"
+    ],
     "availability": true,
     "location": {
       "shelf": "G",
@@ -435,11 +440,15 @@
     "authors": ["Frank Herbert"],
     "isbn": "9780441172719",
     "published_year": 2010,
-    "category": ["Fiction", "Political intrigue", "Ecology"],
+    "category": [
+      "Fiction",
+      "Political intrigue",
+      "Ecology"
+    ],
     "availability": true,
     "location": {
-      "shelf": "G",
-      "row": 2
+        "shelf": "G",
+        "row": 2
     },
     "additional_info": {
       "publisher": "Ace",
@@ -454,11 +463,14 @@
     "authors": ["Frank Herbert"],
     "isbn": "9780593098257",
     "published_year": 2019,
-    "category": ["Fiction", "Philosophy"],
+    "category": [
+      "Fiction",
+      "Philosophy"
+    ],
     "availability": true,
     "location": {
-      "shelf": "G",
-      "row": 2
+        "shelf": "G",
+        "row": 2
     },
     "additional_info": {
       "publisher": "Ace",
@@ -481,8 +493,8 @@
     ],
     "availability": true,
     "location": {
-      "shelf": "G",
-      "row": 2
+        "shelf": "G",
+        "row": 2
     },
     "additional_info": {
       "publisher": "Ace",
@@ -505,8 +517,8 @@
     ],
     "availability": true,
     "location": {
-      "shelf": "G",
-      "row": 2
+        "shelf": "G",
+        "row": 2
     },
     "additional_info": {
       "publisher": "Ace",
@@ -529,8 +541,8 @@
     ],
     "availability": true,
     "location": {
-      "shelf": "G",
-      "row": 2
+        "shelf": "G",
+        "row": 2
     },
     "additional_info": {
       "publisher": "Penguin books",
@@ -552,8 +564,8 @@
     ],
     "availability": true,
     "location": {
-      "shelf": "G",
-      "row": 2
+        "shelf": "G",
+        "row": 2
     },
     "additional_info": {
       "publisher": "Eksmo",
@@ -576,8 +588,8 @@
     ],
     "availability": true,
     "location": {
-      "shelf": "G",
-      "row": 2
+        "shelf": "G",
+        "row": 2
     },
     "additional_info": {
       "publisher": "Orbit",
@@ -600,8 +612,8 @@
     ],
     "availability": true,
     "location": {
-      "shelf": "G",
-      "row": 2
+        "shelf": "G",
+        "row": 2
     },
     "additional_info": {
       "publisher": "Ace",
@@ -624,8 +636,8 @@
     ],
     "availability": true,
     "location": {
-      "shelf": "G",
-      "row": 2
+        "shelf": "G",
+        "row": 2
     },
     "additional_info": {
       "publisher": "Ace",
@@ -635,7 +647,7 @@
     "cover_url": "https://example.com/thumbnails/java-complete-reference.jpg",
     "online_version_url": "https://example.com/ebooks/java-complete-reference.pdf"
   },
-  {
+    {
     "title": "Hitler and Churchill",
     "authors": ["Andrew Roberts"],
     "isbn": "978-0-7538-1778-0",
@@ -661,15 +673,15 @@
   },
   {
     "title": "Հանրահաշիվ 8֊րդ դասարանի դասագիրք",
-    "authors": [
-      "Ս․ Մ․ Նիկոլսկի",
-      "Մ․ Կ․ Պոտապով",
-      "Ն․ Ն․ Ռեշետնիկով",
-      "Ա․ Վ․ Շեվկին"
-    ],
+    "authors": ["Ս․ Մ․ Նիկոլսկի", "Մ․ Կ․ Պոտապով", "Ն․ Ն․ Ռեշետնիկով", "Ա․ Վ․ Շեվկին"],
     "isbn": "978126044232",
     "published_year": 2012,
-    "category": ["Mathematics", "School book", "Arithmetic ", "Education"],
+    "category": [
+      "Mathematics",
+      "School book",
+      "Arithmetic ",
+      "Education"
+    ],
     "availability": true,
     "location": {
       "shelf": "G",
@@ -685,15 +697,15 @@
   },
   {
     "title": "Երկրաչափություն 8֊րդ դասարանի դասագիրք",
-    "authors": [
-      "Ս․ Մ․ Նիկոլսկի",
-      "Մ․ Կ․ Պոտապով",
-      "Ն․ Ն․ Ռեշետնիկով",
-      "Ա․ Վ․ Շեվկին"
-    ],
+    "authors": ["Ս․ Մ․ Նիկոլսկի", "Մ․ Կ․ Պոտապով", "Ն․ Ն․ Ռեշետնիկով", "Ա․ Վ․ Շեվկին"],
     "isbn": "978126044232",
     "published_year": 2012,
-    "category": ["Mathematics", "School book", "Geometry ", "Educational"],
+    "category": [
+      "Mathematics",
+      "School book",
+      "Geometry ",
+      "Educational"
+    ],
     "availability": true,
     "location": {
       "shelf": "G",
@@ -850,13 +862,18 @@
     },
     "cover_url": "https://example.com/thumbnails/arhitektory-intellekta.jpg",
     "online_version_url": "https://example.com/ebooks/arhitektory-intellekta.pdf"
-  },
+ },
   {
     "title": "A Briefer History of Time",
     "authors": ["Stephen Hawking"],
     "isbn": "9780593056974",
     "published_year": 2008,
-    "category": ["Science", "Physics", "Cosmology", "Astrophysics"],
+    "category": [
+      "Science",
+      "Physics",
+      "Cosmology",
+      "Astrophysics"
+    ],
     "availability": true,
     "location": {
       "shelf": "G",
@@ -869,13 +886,18 @@
     },
     "cover_url": "https://example.com/thumbnails/a-briefer-history-of-time.jpg",
     "online_version_url": "https://example.com/ebooks/a-briefer-history-of-time.pdf"
-  },
-  {
+},
+{
     "title": "How to Invent Everything: A Survival Guide for the Stranded Time Traveler",
     "authors": ["Ryan North"],
     "isbn": "9780735220140",
     "published_year": 2018,
-    "category": ["Non-fiction", "Science", "Technology", "Humor"],
+    "category": [
+      "Non-fiction",
+      "Science",
+      "Technology",
+      "Humor"
+    ],
     "availability": true,
     "location": {
       "shelf": "G",
@@ -888,13 +910,18 @@
     },
     "cover_url": "https://example.com/thumbnails/how-to-invent-everything.jpg",
     "online_version_url": "https://example.com/ebooks/how-to-invent-everything.pdf"
-  },
-  {
+},
+{
     "title": "How the World Really Works",
     "authors": ["Vaclav Smil"],
     "isbn": "9780593297063",
     "published_year": 2022,
-    "category": ["Non-fiction", "Science", "Technology", "Sociology"],
+    "category": [
+      "Non-fiction",
+      "Science",
+      "Technology",
+      "Sociology"
+    ],
     "availability": true,
     "location": {
       "shelf": "G",
@@ -907,13 +934,17 @@
     },
     "cover_url": "https://example.com/thumbnails/how-the-world-really-works.jpg",
     "online_version_url": "https://example.com/ebooks/how-the-world-really-works.pdf"
-  },
-  {
+},
+{
     "title": "Ատոմային սովորություններ",
     "authors": ["James Clear"],
     "isbn": "9789939924366",
     "published_year": 2021,
-    "category": ["Science", "Physics", "Education"],
+    "category": [
+      "Science",
+      "Physics",
+      "Education",
+    ],
     "availability": true,
     "location": {
       "shelf": "G",
@@ -926,13 +957,17 @@
     },
     "cover_url": "https://example.com/thumbnails/atomic-teachings.jpg",
     "online_version_url": "https://example.com/ebooks/atomic-teachings.pdf"
-  },
-  {
+},
+{
     "title": "Черные дыры. Лекции BBC",
     "authors": ["Stephen Hawking"],
     "isbn": "9785179827542",
     "published_year": 2019,
-    "category": ["Popular Science", "Physics", "Cosmology"],
+    "category": [
+      "Popular Science",
+      "Physics",
+      "Cosmology",
+    ],
     "availability": true,
     "location": {
       "shelf": "G",
@@ -945,13 +980,17 @@
     },
     "cover_url": "https://example.com/thumbnails/black-holes-bbc-lectures.jpg",
     "online_version_url": "https://example.com/ebooks/black-holes-bbc-lectures.pdf"
-  },
-  {
+},
+{
     "title": "Ամեն ոք ձեռներեց է",
     "authors": ["Gregory Diehl"],
     "isbn": "9789939753919",
     "published_year": 2021,
-    "category": ["Novel", "Romance", "Friendship"],
+    "category": [
+      "Novel",
+      "Romance",
+      "Friendship",
+    ],
     "availability": true,
     "location": {
       "shelf": "G",
@@ -964,13 +1003,18 @@
     },
     "cover_url": "",
     "online_version_url": ""
-  },
-  {
+},
+{
     "title": "Black Holes and Baby Universes",
     "authors": ["Stephen Hawking"],
     "isbn": "9780553406634",
     "published_year": 1994,
-    "category": ["Science", "Cosmology", "Physics", "Astrophysics"],
+    "category": [
+      "Science",
+      "Cosmology",
+      "Physics",
+      "Astrophysics"
+    ],
     "availability": true,
     "location": {
       "shelf": "G",
@@ -983,13 +1027,18 @@
     },
     "cover_url": "https://example.com/thumbnails/black-holes-and-baby-universes.jpg",
     "online_version_url": "https://example.com/ebooks/black-holes-and-baby-universes.pdf"
-  },
-  {
+},
+{
     "title": "Как работает Google",
     "authors": ["Eric Schmidt, Jonathan Rosenberg"],
     "isbn": "9785699981359",
     "published_year": 2017,
-    "category": ["Non-fiction", "Technology", "Business", "Computers"],
+    "category": [
+      "Non-fiction",
+      "Technology",
+      "Business",
+      "Computers"
+    ],
     "availability": true,
     "location": {
       "shelf": "G",
@@ -1002,13 +1051,17 @@
     },
     "cover_url": "https://example.com/thumbnails/kak-rabotaet-google.jpg",
     "online_version_url": "https://example.com/ebooks/kak-rabotaet-google.pdf"
-  },
-  {
+},
+{
     "title": "The Rick and Morty Adventures",
     "authors": ["Syenduk D."],
     "isbn": "9785913395863",
     "published_year": 2017,
-    "category": ["Science Fiction", "Comedy", "Adventure"],
+    "category": [
+      "Science Fiction",
+      "Comedy",
+      "Adventure",
+    ],
     "availability": true,
     "location": {
       "shelf": "G",
@@ -1021,214 +1074,214 @@
     },
     "cover_url": "https://example.com/thumbnails/rick-and-morty-adventures.jpg",
     "online_version_url": "https://example.com/ebooks/rick-and-morty-adventures.pdf"
+},
+{
+  "title": "The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses",
+  "authors": ["Eric Ries"],
+  "isbn": "9780307887894",
+  "published_year": 2011,
+  "category": ["Business", "Entrepreneurship", "Innovation"],
+  "availability": true,
+  "location": {
+    "shelf": "B2",
+    "row": 4
   },
-  {
-    "title": "The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses",
-    "authors": ["Eric Ries"],
-    "isbn": "9780307887894",
-    "published_year": 2011,
-    "category": ["Business", "Entrepreneurship", "Innovation"],
-    "availability": true,
-    "location": {
-      "shelf": "B2",
-      "row": 4
-    },
-    "additional_info": {
-      "publisher": "Crown Business",
-      "language": "English",
-      "page_count": 336
-    },
-    "cover_url": "https://images-na.ssl-images-amazon.com/images/I/81-QB7nDh4L.jpg",
-    "online_version_url": "https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898"
+  "additional_info": {
+    "publisher": "Crown Business",
+    "language": "English",
+    "page_count": 336
   },
-  {
-    "title": "Educated: A Memoir",
-    "authors": ["Tara Westover"],
-    "isbn": "9780399590504",
-    "published_year": 2018,
-    "category": ["Memoir", "Education", "Self-Development"],
-    "availability": true,
-    "location": {
-      "shelf": "D4",
-      "row": 6
-    },
-    "additional_info": {
-      "publisher": "Random House",
-      "language": "English",
-      "page_count": 334
-    },
-    "cover_url": "https://images-na.ssl-images-amazon.com/images/I/81WojUxbbFL.jpg",
-    "online_version_url": "https://www.amazon.com/Educated-Memoir-Tara-Westover/dp/0399590501"
+  "cover_url": "https://images-na.ssl-images-amazon.com/images/I/81-QB7nDh4L.jpg",
+  "online_version_url": "https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898"
+},
+{
+  "title": "Educated: A Memoir",
+  "authors": ["Tara Westover"],
+  "isbn": "9780399590504",
+  "published_year": 2018,
+  "category": ["Memoir", "Education", "Self-Development"],
+  "availability": true,
+  "location": {
+    "shelf": "D4",
+    "row": 6
   },
-  {
-    "title": "Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones",
-    "authors": ["James Clear"],
-    "isbn": "9780735211292",
-    "published_year": 2018,
-    "category": ["Self-Help", "Productivity", "Psychology"],
-    "availability": true,
-    "location": {
-      "shelf": "E5",
-      "row": 1
-    },
-    "additional_info": {
-      "publisher": "Avery",
-      "language": "English",
-      "page_count": 320
-    },
-    "cover_url": "https://images-na.ssl-images-amazon.com/images/I/91pR9wKJ3zL.jpg",
-    "online_version_url": "https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299"
+  "additional_info": {
+    "publisher": "Random House",
+    "language": "English",
+    "page_count": 334
   },
-  {
-    "title": "Becoming",
-    "authors": ["Michelle Obama"],
-    "isbn": "9781524763138",
-    "published_year": 2018,
-    "category": ["Memoir", "Biography", "Politics"],
-    "availability": true,
-    "location": {
-      "shelf": "F6",
-      "row": 2
-    },
-    "additional_info": {
-      "publisher": "Crown Publishing Group",
-      "language": "English",
-      "page_count": 448
-    },
-    "cover_url": "https://images-na.ssl-images-amazon.com/images/I/81h2gWPTYJL.jpg",
-    "online_version_url": "https://www.amazon.com/Becoming-Michelle-Obama/dp/1524763136"
+  "cover_url": "https://images-na.ssl-images-amazon.com/images/I/81WojUxbbFL.jpg",
+  "online_version_url": "https://www.amazon.com/Educated-Memoir-Tara-Westover/dp/0399590501"
+},
+{
+  "title": "Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones",
+  "authors": ["James Clear"],
+  "isbn": "9780735211292",
+  "published_year": 2018,
+  "category": ["Self-Help", "Productivity", "Psychology"],
+  "availability": true,
+  "location": {
+    "shelf": "E5",
+    "row": 1
   },
-  {
-    "title": "The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life",
-    "authors": ["Mark Manson"],
-    "isbn": "9780062457714",
-    "published_year": 2016,
-    "category": ["Self-Help", "Philosophy", "Lifestyle"],
-    "availability": true,
-    "location": {
-      "shelf": "G7",
-      "row": 3
-    },
-    "additional_info": {
-      "publisher": "HarperOne",
-      "language": "English",
-      "page_count": 224
-    },
-    "cover_url": "https://images-na.ssl-images-amazon.com/images/I/71QKQ9mwV7L.jpg",
-    "online_version_url": "https://www.amazon.com/Subtle-Art-Not-Giving-Counterintuitive/dp/0062457713"
+  "additional_info": {
+    "publisher": "Avery",
+    "language": "English",
+    "page_count": 320
   },
-  {
-    "title": "The Four Agreements: A Practical Guide to Personal Freedom",
-    "authors": ["Don Miguel Ruiz"],
-    "isbn": "9781878424310",
-    "published_year": 1997,
-    "category": ["Spirituality", "Self-Help", "Philosophy"],
-    "availability": true,
-    "location": {
-      "shelf": "H8",
-      "row": 4
-    },
-    "additional_info": {
-      "publisher": "Amber-Allen Publishing",
-      "language": "English",
-      "page_count": 160
-    },
-    "cover_url": "https://images-na.ssl-images-amazon.com/images/I/71EwoNQypZL.jpg",
-    "online_version_url": "https://www.amazon.com/Four-Agreements-Practical-Personal-Freedom/dp/1878424319"
+  "cover_url": "https://images-na.ssl-images-amazon.com/images/I/91pR9wKJ3zL.jpg",
+  "online_version_url": "https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299"
+},
+{
+  "title": "Becoming",
+  "authors": ["Michelle Obama"],
+  "isbn": "9781524763138",
+  "published_year": 2018,
+  "category": ["Memoir", "Biography", "Politics"],
+  "availability": true,
+  "location": {
+    "shelf": "F6",
+    "row": 2
   },
-  {
-    "title": "The Power of Habit: Why We Do What We Do in Life and Business",
-    "authors": ["Charles Duhigg"],
-    "isbn": "9780812981605",
-    "published_year": 2012,
-    "category": ["Self-Help", "Business", "Psychology"],
-    "availability": true,
-    "location": {
-      "shelf": "I9",
-      "row": 5
-    },
-    "additional_info": {
-      "publisher": "Random House",
-      "language": "English",
-      "page_count": 371
-    },
-    "cover_url": "https://images-na.ssl-images-amazon.com/images/I/71tbalAHYCL.jpg",
-    "online_version_url": "https://www.amazon.com/Power-Habit-What-Life-Business/dp/081298160X"
+  "additional_info": {
+    "publisher": "Crown Publishing Group",
+    "language": "English",
+    "page_count": 448
   },
-  {
-    "title": "Grit: The Power of Passion and Perseverance",
-    "authors": ["Angela Duckworth"],
-    "isbn": "9781501111105",
-    "published_year": 2016,
-    "category": ["Self-Help", "Psychology", "Motivation"],
-    "availability": true,
-    "location": {
-      "shelf": "K11",
-      "row": 1
-    },
-    "additional_info": {
-      "publisher": "Scribner",
-      "language": "English",
-      "page_count": 352
-    },
-    "cover_url": "https://images-na.ssl-images-amazon.com/images/I/71EwoNQypZL.jpg",
-    "online_version_url": "https://www.amazon.com/Grit-Passion-Perseverance-Angela-Duckworth/dp/1501111108"
+  "cover_url": "https://images-na.ssl-images-amazon.com/images/I/81h2gWPTYJL.jpg",
+  "online_version_url": "https://www.amazon.com/Becoming-Michelle-Obama/dp/1524763136"
+},
+{
+  "title": "The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life",
+  "authors": ["Mark Manson"],
+  "isbn": "9780062457714",
+  "published_year": 2016,
+  "category": ["Self-Help", "Philosophy", "Lifestyle"],
+  "availability": true,
+  "location": {
+    "shelf": "G7",
+    "row": 3
   },
-  {
-    "title": "The 5 AM Club: Own Your Morning, Elevate Your Life",
-    "authors": ["Robin Sharma"],
-    "isbn": "9781443456623",
-    "published_year": 2018,
-    "category": ["Self-Help", "Personal Development", "Motivation"],
-    "availability": true,
-    "location": {
-      "shelf": "M13",
-      "row": 3
-    },
-    "additional_info": {
-      "publisher": "HarperCollins",
-      "language": "English",
-      "page_count": 336
-    },
-    "cover_url": "https://images-na.ssl-images-amazon.com/images/I/71eijJe2ntL.jpg",
-    "online_version_url": "https://www.amazon.com/AM-Club-Morning-Elevate-Life/dp/1443456624"
+  "additional_info": {
+    "publisher": "HarperOne",
+    "language": "English",
+    "page_count": 224
   },
-  {
-    "title": "The Alchemist",
-    "authors": ["Paulo Coelho"],
-    "isbn": "9780061122415",
-    "published_year": 1988,
-    "category": ["Fiction", "Philosophy", "Adventure"],
-    "availability": true,
-    "location": {
-      "shelf": "N14",
-      "row": 4
-    },
-    "additional_info": {
-      "publisher": "HarperOne",
-      "language": "English",
-      "page_count": 208
-    },
-    "cover_url": "https://images-na.ssl-images-amazon.com/images/I/51Z0nLAfLmL.jpg",
-    "online_version_url": "https://www.amazon.com/Alchemist-Paulo-Coelho/dp/0061122416"
+  "cover_url": "https://images-na.ssl-images-amazon.com/images/I/71QKQ9mwV7L.jpg",
+  "online_version_url": "https://www.amazon.com/Subtle-Art-Not-Giving-Counterintuitive/dp/0062457713"
+},
+{
+  "title": "The Four Agreements: A Practical Guide to Personal Freedom",
+  "authors": ["Don Miguel Ruiz"],
+  "isbn": "9781878424310",
+  "published_year": 1997,
+  "category": ["Spirituality", "Self-Help", "Philosophy"],
+  "availability": true,
+  "location": {
+    "shelf": "H8",
+    "row": 4
   },
-  {
-    "title": "Man's Search for Meaning",
-    "authors": ["Viktor E. Frankl"],
-    "isbn": "9780807014271",
-    "published_year": 1946,
-    "category": ["Psychology", "Memoir", "Philosophy"],
-    "availability": true,
-    "location": {
-      "shelf": "P16",
-      "row": 6
-    },
-    "additional_info": {
-      "publisher": "Beacon Press",
-      "language": "English",
-      "page_count": 184
-    },
-    "cover_url": "https://images-na.ssl-images-amazon.com/images/I/71QKQ9mwV7L.jpg",
-    "online_version_url": "https://www.amazon.com/Mans-Search-Meaning-Viktor-Frankl/dp/0807014273"
-  }
+  "additional_info": {
+    "publisher": "Amber-Allen Publishing",
+    "language": "English",
+    "page_count": 160
+  },
+  "cover_url": "https://images-na.ssl-images-amazon.com/images/I/71EwoNQypZL.jpg",
+  "online_version_url": "https://www.amazon.com/Four-Agreements-Practical-Personal-Freedom/dp/1878424319"
+},
+{
+  "title": "The Power of Habit: Why We Do What We Do in Life and Business",
+  "authors": ["Charles Duhigg"],
+  "isbn": "9780812981605",
+  "published_year": 2012,
+  "category": ["Self-Help", "Business", "Psychology"],
+  "availability": true,
+  "location": {
+    "shelf": "I9",
+    "row": 5
+  },
+  "additional_info": {
+    "publisher": "Random House",
+    "language": "English",
+    "page_count": 371
+  },
+  "cover_url": "https://images-na.ssl-images-amazon.com/images/I/71tbalAHYCL.jpg",
+  "online_version_url": "https://www.amazon.com/Power-Habit-What-Life-Business/dp/081298160X"
+},
+{
+  "title": "Grit: The Power of Passion and Perseverance",
+  "authors": ["Angela Duckworth"],
+  "isbn": "9781501111105",
+  "published_year": 2016,
+  "category": ["Self-Help", "Psychology", "Motivation"],
+  "availability": true,
+  "location": {
+    "shelf": "K11",
+    "row": 1
+  },
+  "additional_info": {
+    "publisher": "Scribner",
+    "language": "English",
+    "page_count": 352
+  },
+  "cover_url": "https://images-na.ssl-images-amazon.com/images/I/71EwoNQypZL.jpg",
+  "online_version_url": "https://www.amazon.com/Grit-Passion-Perseverance-Angela-Duckworth/dp/1501111108"
+},
+{
+  "title": "The 5 AM Club: Own Your Morning, Elevate Your Life",
+  "authors": ["Robin Sharma"],
+  "isbn": "9781443456623",
+  "published_year": 2018,
+  "category": ["Self-Help", "Personal Development", "Motivation"],
+  "availability": true,
+  "location": {
+    "shelf": "M13",
+    "row": 3
+  },
+  "additional_info": {
+    "publisher": "HarperCollins",
+    "language": "English",
+    "page_count": 336
+  },
+  "cover_url": "https://images-na.ssl-images-amazon.com/images/I/71eijJe2ntL.jpg",
+  "online_version_url": "https://www.amazon.com/AM-Club-Morning-Elevate-Life/dp/1443456624"
+},
+{
+  "title": "The Alchemist",
+  "authors": ["Paulo Coelho"],
+  "isbn": "9780061122415",
+  "published_year": 1988,
+  "category": ["Fiction", "Philosophy", "Adventure"],
+  "availability": true,
+  "location": {
+    "shelf": "N14",
+    "row": 4
+  },
+  "additional_info": {
+    "publisher": "HarperOne",
+    "language": "English",
+    "page_count": 208
+  },
+  "cover_url": "https://images-na.ssl-images-amazon.com/images/I/51Z0nLAfLmL.jpg",
+  "online_version_url": "https://www.amazon.com/Alchemist-Paulo-Coelho/dp/0061122416"
+},
+{
+  "title": "Man's Search for Meaning",
+  "authors": ["Viktor E. Frankl"],
+  "isbn": "9780807014271",
+  "published_year": 1946,
+  "category": ["Psychology", "Memoir", "Philosophy"],
+  "availability": true,
+  "location": {
+    "shelf": "P16",
+    "row": 6
+  },
+  "additional_info": {
+    "publisher": "Beacon Press",
+    "language": "English",
+    "page_count": 184
+  },
+  "cover_url": "https://images-na.ssl-images-amazon.com/images/I/71QKQ9mwV7L.jpg",
+  "online_version_url": "https://www.amazon.com/Mans-Search-Meaning-Viktor-Frankl/dp/0807014273"
+}
 ]
