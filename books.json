@@ -1118,8 +1118,8 @@
     "additional_info": {
       "publisher": "Addison-Wesley Professional",
       "language": "English",
-      "page_count": 288,
-      }
+      "page_count": 288
+      },
       "cover_url": "https://example.com/thumbnails/effective-stl.jpg",
       "online_version_url": "https://example.com/ebooks/effective-stl.pdf"
   },
@@ -1142,8 +1142,8 @@
     "additional_info": {
       "publisher": "No Starch Press",
       "language": "English",
-      "page_count": 656,
-      }
+      "page_count": 656
+      },
       "cover_url": "https://example.com/thumbnails/thinking-low-level.jpg",
       "online_version_url": "https://example.com/ebooks/thinking-low-level.pdf"
   },
@@ -1506,5 +1506,146 @@
     },
     "cover_url": "https://example.com/thumbnails/java-complete-reference.jpg",
     "online_version_url": "https://example.com/ebooks/java-complete-reference.pdf"
-  }
+  },
+  {
+    "title": "More Programming Pearls",
+    "authors": [
+      "Jon Bentley"
+    ],
+    "isbn": "0201118890",
+    "published_year": 2017,
+    "category": [
+      "Programming",
+      "Algorithms",
+      "Computer Science",
+      "Software Development",
+      "Problem Solving"
+    ],
+    "availability": true,
+    "location": {
+      "shelf": "A6",
+      "row": 2
+    },
+    "additional_info": {
+      "publisher": "Addison-Wesley",
+      "language": "English",
+      "page_count": 183
+    },
+    "cover_url": "https://example.com/thumbnails/java-complete-reference.jpg",
+    "online_version_url": "https://example.com/ebooks/java-complete-reference.pdf"
+  },
+  {
+    "title": "Язык программирования C++",
+    "authors": [
+      "Стивен Прата",
+      "Stephen Prata"
+    ],
+    "isbn": "9785907114005",
+    "published_year": 2020,
+    "category": [
+      "Programming language",
+      "Programming",
+      "OOP",
+      "C++11",
+      "c++",
+      "Software Development"
+    ],
+    "availability": true,
+    "location": {
+      "shelf": "B1",
+      "row": 0
+    },
+    "additional_info": {
+      "publisher": "Addison-Wesley",
+      "language": "Russian",
+      "page_count": 1235
+    },
+    "cover_url": "https://example.com/thumbnails/java-complete-reference.jpg",
+    "online_version_url": "https://example.com/ebooks/java-complete-reference.pdf"
+  },
+  {
+      "title": "Эффективное использование C++ 50 рекомендаций по улучшению ваших программ и проектов",
+      "authors": [
+        "Скотт Майерс",
+        "Scott Meyers"
+      ],
+      "isbn": "5937000064",
+      "published_year": 2000,
+      "category": [
+        "Programming language",
+        "Programming",
+        "OOP",
+        "OOAD",
+        "c++",
+        "Software Development"
+      ],
+      "availability": true,
+      "location": {
+        "shelf": "B1",
+        "row": 0
+      },
+      "additional_info": {
+        "publisher": "Addison-Wesley",
+        "language": "Russian",
+        "page_count": 235
+      },
+      "cover_url": "https://example.com/thumbnails/java-complete-reference.jpg",
+      "online_version_url": "https://example.com/ebooks/java-complete-reference.pdf"
+    },
+    {
+      "title": "программирование в алгоритмах",
+      "authors": [
+        "Станислав Окулов"
+      ],
+      "isbn": "9785947746891",
+      "published_year": 2007,
+      "category": [
+        "Algorithms",
+        "Programming",
+        "Problem Solving",
+        "data structures",
+        "Math",
+        "algorithms on graphs"
+      ],
+      "availability": true,
+      "location": {
+        "shelf": "B1",
+        "row": 0
+      },
+      "additional_info": {
+        "publisher": "BINOM",
+        "language": "Russian",
+        "page_count": 383
+      },
+      "cover_url": "https://example.com/thumbnails/java-complete-reference.jpg",
+      "online_version_url": "https://example.com/ebooks/java-complete-reference.pdf"
+    },
+    {
+      "title": "библиотека программиста С++",
+      "authors": [
+        "Джефф Элджер"
+      ],
+      "isbn": "5804600451",
+      "published_year": 2000,
+      "category": [
+          "Programming language",
+          "Programming",
+          "OOP",
+          "pointers",
+          "c++",
+          "exception handling"
+      ],
+      "availability": true,
+      "location": {
+        "shelf": "B1",
+        "row": 0
+      },
+      "additional_info": {
+        "publisher": "Питер",
+        "language": "Russian",
+        "page_count": 320
+      },
+      "cover_url": "https://example.com/thumbnails/java-complete-reference.jpg",
+      "online_version_url": "https://example.com/ebooks/java-complete-reference.pdf"
+    },
 ]
