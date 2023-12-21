@@ -1074,5 +1074,214 @@
     },
     "cover_url": "https://example.com/thumbnails/rick-and-morty-adventures.jpg",
     "online_version_url": "https://example.com/ebooks/rick-and-morty-adventures.pdf"
+},
+{
+  "title": "The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses",
+  "authors": ["Eric Ries"],
+  "isbn": "9780307887894",
+  "published_year": 2011,
+  "category": ["Business", "Entrepreneurship", "Innovation"],
+  "availability": true,
+  "location": {
+    "shelf": "B2",
+    "row": 4
+  },
+  "additional_info": {
+    "publisher": "Crown Business",
+    "language": "English",
+    "page_count": 336
+  },
+  "cover_url": "https://images-na.ssl-images-amazon.com/images/I/81-QB7nDh4L.jpg",
+  "online_version_url": "https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898"
+},
+{
+  "title": "Educated: A Memoir",
+  "authors": ["Tara Westover"],
+  "isbn": "9780399590504",
+  "published_year": 2018,
+  "category": ["Memoir", "Education", "Self-Development"],
+  "availability": true,
+  "location": {
+    "shelf": "D4",
+    "row": 6
+  },
+  "additional_info": {
+    "publisher": "Random House",
+    "language": "English",
+    "page_count": 334
+  },
+  "cover_url": "https://images-na.ssl-images-amazon.com/images/I/81WojUxbbFL.jpg",
+  "online_version_url": "https://www.amazon.com/Educated-Memoir-Tara-Westover/dp/0399590501"
+},
+{
+  "title": "Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones",
+  "authors": ["James Clear"],
+  "isbn": "9780735211292",
+  "published_year": 2018,
+  "category": ["Self-Help", "Productivity", "Psychology"],
+  "availability": true,
+  "location": {
+    "shelf": "E5",
+    "row": 1
+  },
+  "additional_info": {
+    "publisher": "Avery",
+    "language": "English",
+    "page_count": 320
+  },
+  "cover_url": "https://images-na.ssl-images-amazon.com/images/I/91pR9wKJ3zL.jpg",
+  "online_version_url": "https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299"
+},
+{
+  "title": "Becoming",
+  "authors": ["Michelle Obama"],
+  "isbn": "9781524763138",
+  "published_year": 2018,
+  "category": ["Memoir", "Biography", "Politics"],
+  "availability": true,
+  "location": {
+    "shelf": "F6",
+    "row": 2
+  },
+  "additional_info": {
+    "publisher": "Crown Publishing Group",
+    "language": "English",
+    "page_count": 448
+  },
+  "cover_url": "https://images-na.ssl-images-amazon.com/images/I/81h2gWPTYJL.jpg",
+  "online_version_url": "https://www.amazon.com/Becoming-Michelle-Obama/dp/1524763136"
+},
+{
+  "title": "The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life",
+  "authors": ["Mark Manson"],
+  "isbn": "9780062457714",
+  "published_year": 2016,
+  "category": ["Self-Help", "Philosophy", "Lifestyle"],
+  "availability": true,
+  "location": {
+    "shelf": "G7",
+    "row": 3
+  },
+  "additional_info": {
+    "publisher": "HarperOne",
+    "language": "English",
+    "page_count": 224
+  },
+  "cover_url": "https://images-na.ssl-images-amazon.com/images/I/71QKQ9mwV7L.jpg",
+  "online_version_url": "https://www.amazon.com/Subtle-Art-Not-Giving-Counterintuitive/dp/0062457713"
+},
+{
+  "title": "The Four Agreements: A Practical Guide to Personal Freedom",
+  "authors": ["Don Miguel Ruiz"],
+  "isbn": "9781878424310",
+  "published_year": 1997,
+  "category": ["Spirituality", "Self-Help", "Philosophy"],
+  "availability": true,
+  "location": {
+    "shelf": "H8",
+    "row": 4
+  },
+  "additional_info": {
+    "publisher": "Amber-Allen Publishing",
+    "language": "English",
+    "page_count": 160
+  },
+  "cover_url": "https://images-na.ssl-images-amazon.com/images/I/71EwoNQypZL.jpg",
+  "online_version_url": "https://www.amazon.com/Four-Agreements-Practical-Personal-Freedom/dp/1878424319"
+},
+{
+  "title": "The Power of Habit: Why We Do What We Do in Life and Business",
+  "authors": ["Charles Duhigg"],
+  "isbn": "9780812981605",
+  "published_year": 2012,
+  "category": ["Self-Help", "Business", "Psychology"],
+  "availability": true,
+  "location": {
+    "shelf": "I9",
+    "row": 5
+  },
+  "additional_info": {
+    "publisher": "Random House",
+    "language": "English",
+    "page_count": 371
+  },
+  "cover_url": "https://images-na.ssl-images-amazon.com/images/I/71tbalAHYCL.jpg",
+  "online_version_url": "https://www.amazon.com/Power-Habit-What-Life-Business/dp/081298160X"
+},
+{
+  "title": "Grit: The Power of Passion and Perseverance",
+  "authors": ["Angela Duckworth"],
+  "isbn": "9781501111105",
+  "published_year": 2016,
+  "category": ["Self-Help", "Psychology", "Motivation"],
+  "availability": true,
+  "location": {
+    "shelf": "K11",
+    "row": 1
+  },
+  "additional_info": {
+    "publisher": "Scribner",
+    "language": "English",
+    "page_count": 352
+  },
+  "cover_url": "https://images-na.ssl-images-amazon.com/images/I/71EwoNQypZL.jpg",
+  "online_version_url": "https://www.amazon.com/Grit-Passion-Perseverance-Angela-Duckworth/dp/1501111108"
+},
+{
+  "title": "The 5 AM Club: Own Your Morning, Elevate Your Life",
+  "authors": ["Robin Sharma"],
+  "isbn": "9781443456623",
+  "published_year": 2018,
+  "category": ["Self-Help", "Personal Development", "Motivation"],
+  "availability": true,
+  "location": {
+    "shelf": "M13",
+    "row": 3
+  },
+  "additional_info": {
+    "publisher": "HarperCollins",
+    "language": "English",
+    "page_count": 336
+  },
+  "cover_url": "https://images-na.ssl-images-amazon.com/images/I/71eijJe2ntL.jpg",
+  "online_version_url": "https://www.amazon.com/AM-Club-Morning-Elevate-Life/dp/1443456624"
+},
+{
+  "title": "The Alchemist",
+  "authors": ["Paulo Coelho"],
+  "isbn": "9780061122415",
+  "published_year": 1988,
+  "category": ["Fiction", "Philosophy", "Adventure"],
+  "availability": true,
+  "location": {
+    "shelf": "N14",
+    "row": 4
+  },
+  "additional_info": {
+    "publisher": "HarperOne",
+    "language": "English",
+    "page_count": 208
+  },
+  "cover_url": "https://images-na.ssl-images-amazon.com/images/I/51Z0nLAfLmL.jpg",
+  "online_version_url": "https://www.amazon.com/Alchemist-Paulo-Coelho/dp/0061122416"
+},
+{
+  "title": "Man's Search for Meaning",
+  "authors": ["Viktor E. Frankl"],
+  "isbn": "9780807014271",
+  "published_year": 1946,
+  "category": ["Psychology", "Memoir", "Philosophy"],
+  "availability": true,
+  "location": {
+    "shelf": "P16",
+    "row": 6
+  },
+  "additional_info": {
+    "publisher": "Beacon Press",
+    "language": "English",
+    "page_count": 184
+  },
+  "cover_url": "https://images-na.ssl-images-amazon.com/images/I/71QKQ9mwV7L.jpg",
+  "online_version_url": "https://www.amazon.com/Mans-Search-Meaning-Viktor-Frankl/dp/0807014273"
 }
 ]
