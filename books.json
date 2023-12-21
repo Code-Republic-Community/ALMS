@@ -1118,8 +1118,8 @@
     "additional_info": {
       "publisher": "Addison-Wesley Professional",
       "language": "English",
-      "page_count": 288,
-      }
+      "page_count": 288
+      },
       "cover_url": "https://example.com/thumbnails/effective-stl.jpg",
       "online_version_url": "https://example.com/ebooks/effective-stl.pdf"
   },
@@ -1142,13 +1142,13 @@
     "additional_info": {
       "publisher": "No Starch Press",
       "language": "English",
-      "page_count": 656,
-      }
+      "page_count": 656
+      },
       "cover_url": "https://example.com/thumbnails/thinking-low-level.jpg",
       "online_version_url": "https://example.com/ebooks/thinking-low-level.pdf"
-  }  
-]
-  },
+  }  ,
+
+  
   {
     "title": "The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses",
     "authors": ["Eric Ries"],
@@ -1540,7 +1540,7 @@
     "category": [
       "Competitive Programming",
       "Problem-Solving Strategies",
-      "Computer Science Education",
+      "Computer Science Education"
     ],
     "availability": true,
     "location": {
@@ -1563,7 +1563,7 @@
     "category": [
       "C++ Programming",
       "Software Development",
-      "Visual Studio and C++ Development:",
+      "Visual Studio and C++ Development:"
     ],
     "availability": true,
     "location": {
@@ -1586,7 +1586,7 @@
     "category": [
       "Linux",
       "Operating Systems",
-      "Systems Programming",
+      "Systems Programming"
     ],
     "availability": true,
     "location": {
@@ -1609,7 +1609,7 @@
     "category": [
       "Databases",
       "Data Management",
-      "MS SQL Server",
+      "MS SQL Server"
     ],
     "availability": true,
     "location": {
@@ -1623,7 +1623,7 @@
     },
     "cover_url": "https://example.com/thumbnails/book.jpg",
     "online_version_url": "https://example.com/ebooks/book.pdf"
-  },
+  }
   
 
 ]
