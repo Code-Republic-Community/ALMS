@@ -63,7 +63,7 @@
   },
   {
     "title": "Software Architecture: The Hard Parts",
-    "author": [
+    "authors": [
       "Neal Ford",
       "Marc Richards",
       "Pramod Sadalage",
@@ -91,7 +91,7 @@
   },
   {
     "title": "Modern C++ Design",
-    "author": ["Andrei Alexandrescu", "Scott Meyers", "John Vlissides"],
+    "authors": ["Andrei Alexandrescu", "Scott Meyers", "John Vlissides"],
     "isbn": "0201704315",
     "published_year": 2001,
     "category": [
@@ -116,7 +116,7 @@
   },
   {
     "title": "Decode to Encode",
-    "author": ["Avinash Ramachandran"],
+    "authors": ["Avinash Ramachandran"],
     "isbn": "9780998045016",
     "published_year": 2018,
     "category": ["Video Compression", "GOPs", "Video Codec Architecture"],
@@ -135,7 +135,7 @@
   },
   {
     "title": "System Design Interview",
-    "author": ["Alex Xu"],
+    "authors": ["Alex Xu"],
     "isbn": "9798664653403",
     "published_year": 2020,
     "category": [
@@ -160,7 +160,7 @@
   },
   {
     "title": "A Digital Signal Preocessing Primer",
-    "author": ["Ken Steiglitz"],
+    "authors": ["Ken Steiglitz"],
     "isbn": "9780486845838",
     "published_year": 2020,
     "category": [
@@ -183,7 +183,7 @@
   },
   {
     "title": "The Fabric of Reality",
-    "author": ["Daivd Deutsch"],
+    "authors": ["Daivd Deutsch"],
     "isbn": "0713990619",
     "published_year": 1997,
     "category": ["Computer Science", "Quantum Computers", "Virtual Reality"],
@@ -202,7 +202,7 @@
   },
   {
     "title": "Fundamentals of Software Architecture",
-    "author": ["Marc Richards", "Neal Ford"],
+    "authors": ["Marc Richards", "Neal Ford"],
     "isbn": "9781492043454",
     "published_year": 2001,
     "category": [
@@ -227,7 +227,7 @@
   },
   {
     "title": "Raspberry Pi",
-    "author": ["Simon Monk"],
+    "authors": ["Simon Monk"],
     "isbn": "9785990846265",
     "published_year": 2014,
     "category": ["Raspberry Pi", "GPIO connector", "System Programming"],
@@ -246,7 +246,7 @@
   },
   {
     "title": "The Innovators",
-    "author": ["Walter Isaacson"],
+    "authors": ["Walter Isaacson"],
     "isbn": "9781476708690",
     "published_year": 2014,
     "category": [
@@ -272,7 +272,7 @@
   },
   {
     "title": "Raspberry Pi 4",
-    "author": ["Gareth Halfacree"],
+    "authors": ["Gareth Halfacree"],
     "isbn": "9785970609026",
     "published_year": 2021,
     "category": [
@@ -296,7 +296,7 @@
   },
   {
     "title": "The Game Console 2.0",
-    "author": ["Evan Amos"],
+    "authors": ["Evan Amos"],
     "isbn": "9781718500600",
     "published_year": 2021,
     "category": ["Microsoft XBOX", "Sony Playstation", "Nintendo"],
@@ -315,7 +315,7 @@
   },
   {
     "title": "Multithreaded JavaScript",
-    "author": ["Thomas Hunter", "Bryan English"],
+    "authors": ["Thomas Hunter", "Bryan English"],
     "isbn": "9781098104436",
     "published_year": 2021,
     "category": [
@@ -343,7 +343,7 @@
   },
   {
     "title": "Distributed Systems with Node.js",
-    "author": ["Thomas Hunter"],
+    "authors": ["Thomas Hunter"],
     "isbn": "9781492077299",
     "published_year": 2020,
     "category": [
@@ -370,7 +370,7 @@
   },
   {
     "title": "iOS Programming",
-    "author": ["Christian Keur", "Aaron Hillegass"],
+    "authors": ["Christian Keur", "Aaron Hillegass"],
     "isbn": "9780134682334",
     "published_year": 2016,
     "category": [
@@ -394,7 +394,7 @@
   },
   {
     "title": "The Startup Owner's Manual",
-    "author": ["Steve Blank", "Bob Dorf"],
+    "authors": ["Steve Blank", "Bob Dorf"],
     "isbn": "9780984999309",
     "published_year": 2016,
     "category": ["Customer Discovery", "Customer Validation", "Startup"],
