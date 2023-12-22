@@ -2010,4 +2010,121 @@
     "cover_url": "https://example.com/thumbnails/java-complete-reference.jpg",
     "online_version_url": "https://example.com/ebooks/java-complete-reference.pdf"
   }
+  ,
+  {
+    "title": "Structured Parallel Programming",
+    "authors": ["Michael McCool, Archi D. Robison, James Reinders"],
+    "isbn": "9780124159938",
+    "published_year": 2012,
+    "category": [
+      "Parallel Programming",
+      "Multicore Systems",
+      "Programming"
+    ],
+    "availability": true,
+    "location": {
+      "shelf": "B",
+      "row": 0
+    },
+    "additional_info": {
+      "publisher": "Morgan Kaufmann",
+      "language": "English",
+      "page_count": 406
+    },
+    "cover_url": "https://example.com/thumbnails/book.jpg",
+    "online_version_url": "https://example.com/ebooks/book.pdf"
+  },
+  {
+    "title": "Руководство по подготовке к соревнованиям",
+    "authors": ["Стивеи С. Скиена, Мигел А. Ревилла"],
+    "isbn": "5957900826",
+    "published_year": 2005,
+    "category": [
+      "Competitive Programming",
+      "Problem-Solving Strategies",
+      "Computer Science Education"
+    ],
+    "availability": true,
+    "location": {
+      "shelf": "B",
+      "row": 0
+    },
+    "additional_info": {
+      "publisher": "Springer",
+      "language": "Russian",
+      "page_count": 416
+    },
+    "cover_url": "https://example.com/thumbnails/book.jpg",
+    "online_version_url": "https://example.com/ebooks/book.pdf"
+  },
+  {
+    "title": "Visual C++ 6 учебный курс",
+    "authors": ["С. Холзнер"],
+    "isbn": "5804600532",
+    "published_year": 2001,
+    "category": [
+      "C++ Programming",
+      "Software Development",
+      "Visual Studio and C++ Development:"
+    ],
+    "availability": true,
+    "location": {
+      "shelf": "B",
+      "row": 0
+    },
+    "additional_info": {
+      "publisher": "Питер",
+      "language": "Russian",
+      "page_count": 576
+    },
+    "cover_url": "https://example.com/thumbnails/book.jpg",
+    "online_version_url": "https://example.com/ebooks/book.pdf"
+  },
+  {
+    "title": "Разработка ядра Linux",
+    "authors": ["Роберт Лав"],
+    "isbn": "5845910854",
+    "published_year": 2006,
+    "category": [
+      "Linux",
+      "Operating Systems",
+      "Systems Programming"
+    ],
+    "availability": true,
+    "location": {
+      "shelf": "B",
+      "row": 0
+    },
+    "additional_info": {
+      "publisher": "Williams",
+      "language": "Russian",
+      "page_count": 448
+    },
+    "cover_url": "https://example.com/thumbnails/book.jpg",
+    "online_version_url": "https://example.com/ebooks/book.pdf"
+  },
+  {
+    "title": "Программирование баз данных MS SQL Server",
+    "authors": ["Роберт Виейра"],
+    "isbn": "9785845912022",
+    "published_year": 2007,
+    "category": [
+      "Databases",
+      "Data Management",
+      "MS SQL Server"
+    ],
+    "availability": true,
+    "location": {
+      "shelf": "B",
+      "row": 0
+    },
+    "additional_info": {
+      "publisher": "Dialektika",
+      "language": "Russian",
+      "page_count": 832
+    },
+    "cover_url": "https://example.com/thumbnails/book.jpg",
+    "online_version_url": "https://example.com/ebooks/book.pdf"
+  }
+  
 ]
