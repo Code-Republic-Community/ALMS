@@ -1889,5 +1889,125 @@
     },
     "cover_url": "https://example.com/thumbnails/debugging-in-cplusplus.jpg",
     "online_version_url": "https://example.com/ebooks/debugging-in-cplusplus.pdf"
+  },
+  {
+    "title": "How Smart Machines Think",
+    "authors": ["Sean Gerrish"],
+    "isbn": "978-0-262-03840-9",
+    "published_year": 2018,
+    "category": [
+      "Artificial Intelligence (AI)",
+      "Cognitive Science",
+      "Machine Learning",
+      "Ethics and Philosophy of Technology"
+    ],
+    "availability": true,
+    "location": {
+      "shelf": "F",
+      "row": 3
+    },
+    "additional_info": {
+      "publisher": "The MIT Press",
+      "language": "English",
+      "page_count": 312
+    },
+    "cover_url": "https://example.com/thumbnails/java-complete-reference.jpg",
+    "online_version_url": "https://example.com/ebooks/java-complete-reference.pdf"
+  },
+  {
+    "title": "How To: Absurd Scientific Advice for Common Real-World Problems",
+    "authors": ["Randall Munroe"],
+    "isbn": "978-0-525-53709-0",
+    "published_year": 2019,
+    "category": [
+      "Self-Help and Personal Development",
+      "General Reference",
+      "Education and How-To Guides",
+      "General Non-Fiction"
+    ],
+    "availability": true,
+    "location": {
+      "shelf": "F",
+      "row": 3
+    },
+    "additional_info": {
+      "publisher": "Riverhead Books",
+      "language": "English",
+      "page_count": 320
+    },
+    "cover_url": "https://example.com/thumbnails/java-complete-reference.jpg",
+    "online_version_url": "https://example.com/ebooks/java-complete-reference.pdf"
+  },
+  {
+    "title": "Обезьяны в бизнесе. Как запускать проекты по лучшим стратегиям Кремниевой долины",
+    "authors": ["Гарсиа Мартинес Антонио"],
+    "isbn": "978-5-04-089528-1",
+    "published_year": 2020,
+    "category": [
+      "Business and Entrepreneurship",
+      "Technology and Innovation",
+      "Project Management",
+      "Business Strategy and Planning"
+    ],
+    "availability": true,
+    "location": {
+      "shelf": "F",
+      "row": 3
+    },
+    "additional_info": {
+      "publisher": "Бомбора",
+      "language": "Русский",
+      "page_count": 432
+    },
+    "cover_url": "https://example.com/thumbnails/java-complete-reference.jpg",
+    "online_version_url": "https://example.com/ebooks/java-complete-reference.pdf"
+  },
+  {
+    "title": "Infinite Powers: How Calculus Reveals the Secrets of the Universe",
+    "authors": ["Steven Strogatz"],
+    "isbn": "978-1-328-87998-1",
+    "published_year": 2019,
+    "category": [
+      "Mathematics and Calculus",
+      "Science and Physics",
+      "Educational",
+      "Popular Science"
+    ],
+    "availability": true,
+    "location": {
+      "shelf": "F",
+      "row": 3
+    },
+    "additional_info": {
+      "publisher": "Mariner Books",
+      "language": "English",
+      "page_count": 384
+    },
+    "cover_url": "https://example.com/thumbnails/java-complete-reference.jpg",
+    "online_version_url": "https://example.com/ebooks/java-complete-reference.pdf"
+  },
+  {
+    "title": "The Man Who Solved the Market: How Jim Simons Launched the Quant Revolution",
+    "authors": ["Gregory Zuckerman "],
+    "isbn": "978-0735217980",
+    "published_year": 2019,
+    "category": [
+      "Biography",
+      "Finance and Investing",
+      "Business and Economics",
+      "Technology and Innovation"
+    ],
+    "availability": true,
+    "location": {
+      "shelf": "F",
+      "row": 3
+    },
+    "additional_info": {
+      "publisher": "Portfolio",
+      "language": "English",
+      "page_count": 384
+    },
+    "cover_url": "https://example.com/thumbnails/java-complete-reference.jpg",
+    "online_version_url": "https://example.com/ebooks/java-complete-reference.pdf"
   }
 ]
