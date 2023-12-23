@@ -2011,6 +2011,125 @@
     },
     "cover_url": "https://example.com/thumbnails/java-complete-reference.jpg",
     "online_version_url": "https://example.com/ebooks/java-complete-reference.pdf"
+  },
+    {
+    "title": "Delmar's Standard Textbook of Electricity, Sixth Edition",
+    "authors": ["Stephen L. Herman"],
+    "isbn": "978-1-285-85270-6",
+    "published_year": 2018,
+    "category": [
+      "Electrical Engineering",
+      "Textbook",
+      "Technical Education"
+    ],
+    "availability": true,
+    "location": {
+      "shelf": "C",
+      "row": 3
+    },
+    "additional_info": {
+      "publisher": "Cengage Learning",
+      "language": "English",
+      "page_count": 987
+    },
+    "cover_url": "https://example.com/thumbnails/java-complete-reference.jpg",
+    "online_version_url": "https://example.com/ebooks/java-complete-reference.pdf"
+  },
+
+  {
+    "title": "The Design and Engineering of Curiosity",
+    "authors": ["Emily Lakdawalla"],
+    "isbn": "978-3-319-68146-7",
+    "published_year": 2018,
+    "category": [
+      "Space Exploration",
+      "Engineering",
+      "Science"
+    ],
+    "availability": true,
+    "location": {
+      "shelf": "C",
+      "row": 3
+    },
+    "additional_info": {
+      "publisher": "Springer",
+      "language": "English",
+      "page_count": 393
+    },
+    "cover_url": "https://example.com/thumbnails/java-complete-reference.jpg",
+    "online_version_url": "https://example.com/ebooks/java-complete-reference.pdf"
+  },
+
+  {
+    "title": "Structure and Interpretation of Computer Programs",
+    "authors": ["Harold Abelson", "Gerald Jay Sussman"],
+    "isbn": "978-0-262-01153-2",
+    "published_year": 2019,
+    "category": [
+      "Computer Science",
+      "Programming",
+      "Textbook"
+    ],
+    "availability": true,
+    "location": {
+      "shelf": "C",
+      "row": 3
+    },
+    "additional_info": {
+      "publisher": "The MIT Press",
+      "language": "English",
+      "page_count": 657
+    },
+    "cover_url": "https://example.com/thumbnails/java-complete-reference.jpg",
+    "online_version_url": "https://example.com/ebooks/java-complete-reference.pdf"
+  },
+
+  {
+    "title": "The Beginner's Guide to Engineering: Electrical Engineering",
+    "authors": ["Mary Ellen Latschar"],
+    "isbn": "978-1492986652",
+    "published_year": 2013,
+    "category": [
+      "Electrical Engineering",
+      "Introductory Engineering",
+      "Educational"
+    ],
+    "availability": true,
+    "location": {
+      "shelf": "C",
+      "row": 3
+    },
+    "additional_info": {
+      "publisher": "Quantun scientific publishing",
+      "language": "English",
+      "page_count": 285
+    },
+    "cover_url": "https://example.com/thumbnails/java-complete-reference.jpg",
+    "online_version_url": "https://example.com/ebooks/java-complete-reference.pdf"
+  },
+
+  {
+    "title": "Basic Antennas: Understanding Practical Antennas and Design",
+    "authors": ["Joel R. W1ZR"],
+    "isbn": "0-87259-999-x",
+    "published_year": 2008,
+    "category": [
+      "Antennas",
+      "Electrical Engineering",
+      "Radio Frequency"
+    ],
+    "availability": true,
+    "location": {
+      "shelf": "C",
+      "row": 3
+    },
+    "additional_info": {
+      "publisher": "The ARRL Antenna Book",
+      "language": "English",
+      "page_count": 200
+    },
+    "cover_url": "https://example.com/thumbnails/java-complete-reference.jpg",
+    "online_version_url": "https://example.com/ebooks/java-complete-reference.pdf"
   }
 ]
 },
