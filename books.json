@@ -3228,5 +3228,33 @@
     },
     "cover_url": "https://example.com/thumbnails/book.jpg",
     "online_version_url": "https://example.com/ebooks/book.pdf"
+  },
+  {
+    "title": "Understanding the Linux Kernel",
+    "authors": ["Daniel Bovet, Marco Cesati"],
+    "isbn": "9780596005658",
+    "published_year": 2005,
+    "category": [
+      "Linux",
+      "Memory Management",
+      "System Calls",
+      "Process Scheduling",
+      "Signals",
+      "I/O Architecture",
+      "Program Execution",
+      "Cache"
+    ],
+    "availability": true,
+    "location": {
+      "shelf": "C",
+      "row": 3
+    },
+    "additional_info": {
+      "publisher": "O'REILLY",
+      "language": "English",
+      "page_count": 905
+    },
+    "cover_url": "https://example.com/thumbnails/book.jpg",
+    "online_version_url": "https://example.com/ebooks/book.pdf"
   }
 ]
