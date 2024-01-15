@@ -2803,5 +2803,430 @@
     },
     "cover_url": "https://example.com/thumbnails/java-complete-reference.jpg",
     "online_version_url": "https://example.com/ebooks/java-complete-reference.pdf"
+  },
+  {
+    "title": "Professional C++",
+    "authors": ["Marc Gregoire"],
+    "isbn": "9781119695400",
+    "published_year": 2021,
+    "category": [
+      "C++ Fundamentals",
+      "Modern C++",
+      "STL",
+      "Design Patterns",
+      "Multithreading",
+      "Cross-Platform Development",
+      "Debugging and Testing",
+      "Performance Optimization"
+    ],
+    "availability": true,
+    "location": {
+      "shelf": "A2",
+      "row": 0
+    },
+    "additional_info": {
+      "publisher": "John Wiley & Sons",
+      "language": "English",
+      "page_count": 1219
+    },
+    "cover_url": "https://example.com/thumbnails/professional-c++.jpg",
+    "online_version_url": "https://example.com/ebooks/professional-c++.pdf"
+  },
+
+  {
+    "title": "Effective Modern C++",
+    "author": ["Scott Meyers"],
+    "isbn": "9781491903995",
+    "published_year": 2015,
+    "category": [
+      "C++14",
+      "C++17",
+      "Parallelism",
+      "Lambda Expressions",
+      "Smart Pointers",
+      "Customizing C++",
+      "Performance Considerations"
+    ],
+    "availability": true,
+    "location": {
+      "shelf": "A3",
+      "row": 1
+    },
+    "additional_info": {
+      "publisher": "O'REILLY",
+      "language": "English",
+      "page_count": 303
+    },
+    "cover_url": "https://example.com/thumbnails/effective-modern-c++.jpg",
+    "online_version_url": "https://example.com/ebooks/effective-modern-c++.pdf"
+  },
+
+  {
+    "title": "Effective C++",
+    "author": ["Scott Meyers"],
+    "isbn": "9780321334879",
+    "published_year": 2005,
+    "category": [
+      "C++11",
+      "C++14",
+      "Object-Oriented Design and Inheritance",
+      "Resource Management",
+      "Miscellaneous Effective Practices",
+      "Concurrency Best Practices",
+      "Lambda Expressions",
+      "Smart Pointers"
+    ],
+    "availability": true,
+    "location": {
+      "shelf": "A3",
+      "row": 1
+    },
+    "additional_info": {
+      "publisher": "Addison-Wesley",
+      "language": "English",
+      "page_count": 280
+    },
+    "cover_url": "https://example.com/thumbnails/effective-c++.jpg",
+    "online_version_url": "https://example.com/ebooks/effective-c++.pdf"
+  },
+
+  {
+    "title": "C++ Concurrency in Action",
+    "author": ["Anthony Williams"],
+    "isbn": "9781617294693",
+    "published_year": 2019,
+    "category": [
+      "C++",
+      "Concurrency",
+      "Thread Management",
+      "Parallel Algorithms",
+      "Advanced Synchronization",
+      "Design Patterns for Concurrency",
+      "Testing and Debugging",
+      "Lock-Based Concurrency"
+    ],
+    "availability": true,
+    "location": {
+      "shelf": "A6",
+      "row": 2
+    },
+    "additional_info": {
+      "publisher": "Manning",
+      "language": "English",
+      "page_count": 551
+    },
+    "cover_url": "https://example.com/thumbnails/c++-concurrency-in-action.jpg",
+    "online_version_url": "https://example.com/ebooks/c++-concurrency-in-action.pdf"
+  },
+
+  {
+    "title": "Язык Ассемблера для Процессоров Intel",
+    "author": ["Кип Р. Ирвин"],
+    "isbn": "5845907799",
+    "published_year": 2005,
+    "category": [
+      "Assembly Language",
+      "x86 and x86-64 Instruction Set Architecture",
+      "Data Movement Instructions",
+      "Arithmetic and Logic Instructions",
+      "Procedure Calls and Stacks",
+      "String and Array Instructions",
+      "Interrupts and Exception Handling",
+      "Input/Output Programming",
+      "Floating-Point Arithmetic",
+      "Debugging and Optimization"
+    ],
+    "availability": true,
+    "location": {
+      "shelf": "A5",
+      "row": 2
+    },
+    "additional_info": {
+      "publisher": "Вильямс",
+      "language": "Russian",
+      "page_count": 889
+    },
+    "cover_url": "https://example.com/thumbnails/assembly-language-for-intel-based-computers.jpg",
+    "online_version_url": "https://example.com/ebooks/assembly-language-for-intel-based-computers.pdf"
+  },
+
+  {
+    "title": "Архитектура Компьютера",
+    "authors": ["Э. Таненбаум", "T. Остин"],
+    "isbn": "9785469012740",
+    "published_year": 2009,
+    "category": [
+      "Computer Organization",
+      "Digital Logic Fundamentals",
+      "Data Representation",
+      "Memory Organization",
+      "CPU Organization and Design",
+      "Input/Output Organization",
+      "Pipeline Processing",
+      "RISC and CISC Architectures",
+      "Multiprocessor",
+      "Networks and Distributed Systems"
+    ],
+    "availability": true,
+    "location": {
+      "shelf": "A5",
+      "row": 2
+    },
+    "additional_info": {
+      "publisher": "Питер",
+      "language": "Russian",
+      "page_count": 825
+    },
+    "cover_url": "https://example.com/thumbnails/structured-computer-organization.jpg",
+    "online_version_url": "https://example.com/ebooks/structured-computer-organization.pdf"
+  },
+
+  {
+    "title": "Object-Oriented Analysis and Design with Applications",
+    "author": ["Grady Booch"],
+    "isbn": "0805353402",
+    "published_year": 1994,
+    "category": [
+      "OOA",
+      "OOD",
+      "Notations and Modeling Techniques",
+      "Dynamic Modeling",
+      "Architectural Design",
+      "Object-Oriented Implementation",
+      "Object-Oriented Testing and Quality Assurance",
+      "Object-Oriented Metrics and Maintenance",
+      "Object-Oriented Design Patterns",
+      "Agile and Iterative Development"
+    ],
+    "availability": true,
+    "location": {
+      "shelf": "A3",
+      "row": 1
+    },
+    "additional_info": {
+      "publisher": "Addison-Wesley",
+      "language": "English",
+      "page_count": 579
+    },
+    "cover_url": "https://example.com/thumbnails/object-oriented-analysis-and-design-with-applications.jpg",
+    "online_version_url": "https://example.com/ebooks/object-oriented-analysis-and-design-with-applications.pdf"
+  },
+  {
+    "title": "Mass Effect: Revelation",
+    "authors": ["Дрю Карпишин"],
+    "isbn": "978-5-395-00446-8",
+    "published_year": 2009,
+    "category": [
+      "Fiction",
+      "Mystery",
+      "Thriller",
+      "Science",
+      "Fantasy",
+      "Non-Fiction"
+    ],
+    "availability": true,
+    "location": {
+      "shelf": "F",
+      "row": 2
+    },
+    "additional_info": {
+      "publisher": "Азбука-классика",
+      "language": "Русский",
+      "page_count": 320
+    },
+    "cover_url": "https://example.com/thumbnails/mass-effect-revelation.jpg",
+    "online_version_url": "https://example.com/ebooks/mass-effect-revelation.pdf"
+  },
+
+  {
+    "title": "The Story of Psychology",
+    "authors": ["Morton Hunt"],
+    "isbn": "0385247621",
+    "published_year": 1993,
+    "category": ["Psychology", "History", "Science"],
+    "availability": true,
+    "location": {
+      "shelf": "F",
+      "row": 2
+    },
+
+    "aditional_info": {
+      "publisher": "Doubleday",
+      "language": "English",
+      "page_count": 762
+    },
+    "cover_url": "https://example.com/thumbnails/the-story-of-psychology.jpg",
+    "online_version_url": "https://example.com/ebooks/the-story-of-psychology.pdf"
+  },
+
+  {
+    "title": "The Little Prince",
+    "authors": ["Antoine de Saint-Exupéry"],
+    "isbn": "978-0156012195",
+    "published_year": 2000,
+    "category": ["Fiction", "Fantasy", "Allegory"],
+    "availability": true,
+    "location": {
+      "shelf": "F",
+      "row": 1
+    },
+    "aditional_info": {
+      "publisher": "Clarion Books",
+      "language": "English",
+      "page_count": 96
+    },
+    "cover_url": "https://example.com/thumbnails/the-little-prince.jpg",
+    "online_version_url": "https://example.com/ebooks/the-little-prince.pdf"
+  },
+
+  {
+    "title": "1984",
+    "authors": ["George Orwell"],
+    "isbn": "978-0451524935",
+    "published_year": 1961,
+    "category": ["Fiction", "Social Commentary", "Classic Literature"],
+    "availability": true,
+    "location": {
+      "shelf": "F",
+      "row": 1
+    },
+    "aditional_info": {
+      "publisher": "Signet Classic",
+      "language": "English",
+      "page_count": 328
+    },
+    "cover_url": "https://example.com/thumbnails/1984.jpg",
+    "online_version_url": "https://example.com/ebooks/1984.pdf"
+  },
+
+  {
+    "title": "A Brief History of Time",
+    "authors": ["Stephen Hawking", "Leonard Mlodinow"],
+    "isbn": "978-0553380163",
+    "published_year": 1998,
+    "category": [
+      "Non-Fiction",
+      "Physics",
+      "Cosmology",
+      "Popular Science",
+      "Astrophysics",
+      "Philosophy of Science",
+      "Biography"
+    ],
+    "availability": true,
+    "location": {
+      "shelf": "F",
+      "row": 2
+    },
+    "aditional_info": {
+      "publisher": "Random House Publishing Group",
+      "language": "English",
+      "page_count": 212
+    },
+    "cover_url": "https://example.com/thumbnails/a_brief_history_of_time.jpg",
+    "online_version_url": "https://example.com/ebooks/a_brief_history_of_time.pdf"
+  },
+  {
+    "title": "Structured Parallel Programming",
+    "authors": ["Michael McCool, Archi D. Robison, James Reinders"],
+    "isbn": "9780124159938",
+    "published_year": 2012,
+    "category": ["Parallel Programming", "Multicore Systems", "Programming"],
+    "availability": true,
+    "location": {
+      "shelf": "B",
+      "row": 0
+    },
+    "additional_info": {
+      "publisher": "Morgan Kaufmann",
+      "language": "English",
+      "page_count": 406
+    },
+    "cover_url": "https://example.com/thumbnails/book.jpg",
+    "online_version_url": "https://example.com/ebooks/book.pdf"
+  },
+  {
+    "title": "Руководство по подготовке к соревнованиям",
+    "authors": ["Стивеи С. Скиена, Мигел А. Ревилла"],
+    "isbn": "5957900826",
+    "published_year": 2005,
+    "category": [
+      "Competitive Programming",
+      "Problem-Solving Strategies",
+      "Computer Science Education"
+    ],
+    "availability": true,
+    "location": {
+      "shelf": "B",
+      "row": 0
+    },
+    "additional_info": {
+      "publisher": "Springer",
+      "language": "Russian",
+      "page_count": 416
+    },
+    "cover_url": "https://example.com/thumbnails/book.jpg",
+    "online_version_url": "https://example.com/ebooks/book.pdf"
+  },
+  {
+    "title": "Visual C++ 6 учебный курс",
+    "authors": ["С. Холзнер"],
+    "isbn": "5804600532",
+    "published_year": 2001,
+    "category": [
+      "C++ Programming",
+      "Software Development",
+      "Visual Studio and C++ Development:"
+    ],
+    "availability": true,
+    "location": {
+      "shelf": "B",
+      "row": 0
+    },
+    "additional_info": {
+      "publisher": "Питер",
+      "language": "Russian",
+      "page_count": 576
+    },
+    "cover_url": "https://example.com/thumbnails/book.jpg",
+    "online_version_url": "https://example.com/ebooks/book.pdf"
+  },
+  {
+    "title": "Разработка ядра Linux",
+    "authors": ["Роберт Лав"],
+    "isbn": "5845910854",
+    "published_year": 2006,
+    "category": ["Linux", "Operating Systems", "Systems Programming"],
+    "availability": true,
+    "location": {
+      "shelf": "B",
+      "row": 0
+    },
+    "additional_info": {
+      "publisher": "Williams",
+      "language": "Russian",
+      "page_count": 448
+    },
+    "cover_url": "https://example.com/thumbnails/book.jpg",
+    "online_version_url": "https://example.com/ebooks/book.pdf"
+  },
+  {
+    "title": "Программирование баз данных MS SQL Server",
+    "authors": ["Роберт Виейра"],
+    "isbn": "9785845912022",
+    "published_year": 2007,
+    "category": ["Databases", "Data Management", "MS SQL Server"],
+    "availability": true,
+    "location": {
+      "shelf": "B",
+      "row": 0
+    },
+    "additional_info": {
+      "publisher": "Dialektika",
+      "language": "Russian",
+      "page_count": 832
+    },
+    "cover_url": "https://example.com/thumbnails/book.jpg",
+    "online_version_url": "https://example.com/ebooks/book.pdf"
   }
 ]
